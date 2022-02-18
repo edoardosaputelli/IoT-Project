@@ -1,0 +1,301 @@
+[
+    {
+        "id": "3ea6fd79.f1fdd2",
+        "type": "tcp in",
+        "z": "b5d1af96.0416f8",
+        "name": "",
+        "server": "client",
+        "host": "localhost",
+        "port": "60001",
+        "datamode": "stream",
+        "datatype": "utf8",
+        "newline": "\\n",
+        "topic": "",
+        "base64": false,
+        "x": 170,
+        "y": 60,
+        "wires": [
+            [
+                "12ce4fa5.6cdf8"
+            ]
+        ]
+    },
+    {
+        "id": "12ce4fa5.6cdf8",
+        "type": "switch",
+        "z": "b5d1af96.0416f8",
+        "name": "Alert Filter",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "cont",
+                "v": "ALERT",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 520,
+        "y": 240,
+        "wires": [
+            [
+                "c56a0724.2533b8",
+                "1f66bd44.74bdfb"
+            ]
+        ]
+    },
+    {
+        "id": "9b99a35c.409b1",
+        "type": "tcp in",
+        "z": "b5d1af96.0416f8",
+        "name": "",
+        "server": "client",
+        "host": "localhost",
+        "port": "60002",
+        "datamode": "stream",
+        "datatype": "utf8",
+        "newline": "\\n",
+        "topic": "",
+        "base64": false,
+        "x": 170,
+        "y": 120,
+        "wires": [
+            [
+                "12ce4fa5.6cdf8"
+            ]
+        ]
+    },
+    {
+        "id": "9555a9e5.82cee8",
+        "type": "tcp in",
+        "z": "b5d1af96.0416f8",
+        "name": "",
+        "server": "client",
+        "host": "localhost",
+        "port": "60003",
+        "datamode": "stream",
+        "datatype": "utf8",
+        "newline": "\\n",
+        "topic": "",
+        "base64": false,
+        "x": 170,
+        "y": 180,
+        "wires": [
+            [
+                "12ce4fa5.6cdf8"
+            ]
+        ]
+    },
+    {
+        "id": "d7a9182a.4449",
+        "type": "tcp in",
+        "z": "b5d1af96.0416f8",
+        "name": "",
+        "server": "client",
+        "host": "localhost",
+        "port": "60004",
+        "datamode": "stream",
+        "datatype": "utf8",
+        "newline": "\\n",
+        "topic": "",
+        "base64": false,
+        "x": 170,
+        "y": 240,
+        "wires": [
+            [
+                "12ce4fa5.6cdf8"
+            ]
+        ]
+    },
+    {
+        "id": "e304bdc2.a183c8",
+        "type": "tcp in",
+        "z": "b5d1af96.0416f8",
+        "name": "",
+        "server": "client",
+        "host": "localhost",
+        "port": "60006",
+        "datamode": "stream",
+        "datatype": "utf8",
+        "newline": "\\n",
+        "topic": "",
+        "base64": false,
+        "x": 170,
+        "y": 300,
+        "wires": [
+            [
+                "12ce4fa5.6cdf8"
+            ]
+        ]
+    },
+    {
+        "id": "a102814e.e95ba8",
+        "type": "http request",
+        "z": "b5d1af96.0416f8",
+        "name": "Web Req",
+        "method": "POST",
+        "ret": "txt",
+        "url": "https://maker.ifttt.com/trigger/proximity_alert/with/key/kzEMIHakv7eOhMjGo0fE-8X1evdlAc2JFyzt69yGcWf",
+        "tls": "",
+        "x": 980,
+        "y": 160,
+        "wires": [
+            [
+                "b102dce0.1d4fa",
+                "1829bd8b.c94482"
+            ]
+        ]
+    },
+    {
+        "id": "b102dce0.1d4fa",
+        "type": "debug",
+        "z": "b5d1af96.0416f8",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "x": 1650,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "c56a0724.2533b8",
+        "type": "function",
+        "z": "b5d1af96.0416f8",
+        "name": "Req Params",
+        "func": "var regex = /\\d+/g;\nvar string = msg.payload;\nvar matches = string.match(regex);\n\nif(matches){\n    var newMsg = {payload: {\"value1\": matches[matches.length-1]} };\n}\nelse{\n    var newMsg = {payload: \"ERROR\"};\n}\nreturn newMsg;\n\n\n//msg.event = \"proximity_alert\";\n//msg.payload = {\"value1\": \"testvalue1\", \"value2\": \"testvalue2\", \"value3\": \"testvalue3\"};\n//return msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 819,
+        "y": 160,
+        "wires": [
+            [
+                "a102814e.e95ba8"
+            ]
+        ]
+    },
+    {
+        "id": "1f66bd44.74bdfb",
+        "type": "function",
+        "z": "b5d1af96.0416f8",
+        "name": "Debug",
+        "func": "var regex = /\\d+/g;\nvar string = msg.payload;\nvar matches = string.match(regex);\n\nvar newMsg = {payload: \"[Cooja] Received alert for mote \" + matches[0] + \", close to mote \" + matches[1] + \".\"};\nreturn newMsg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 790,
+        "y": 320,
+        "wires": [
+            [
+                "8fcdf561.d04c1",
+                "8a7c3a10.82b54"
+            ]
+        ]
+    },
+    {
+        "id": "8fcdf561.d04c1",
+        "type": "debug",
+        "z": "b5d1af96.0416f8",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "x": 1650,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "36e54f99.e7b6c8",
+        "type": "tcp in",
+        "z": "b5d1af96.0416f8",
+        "name": "",
+        "server": "client",
+        "host": "localhost",
+        "port": "60007",
+        "datamode": "stream",
+        "datatype": "utf8",
+        "newline": "\\n",
+        "topic": "",
+        "base64": false,
+        "x": 170,
+        "y": 360,
+        "wires": [
+            [
+                "12ce4fa5.6cdf8"
+            ]
+        ]
+    },
+    {
+        "id": "6d76206d.5d9c6",
+        "type": "tcp in",
+        "z": "b5d1af96.0416f8",
+        "name": "",
+        "server": "client",
+        "host": "localhost",
+        "port": "60008",
+        "datamode": "stream",
+        "datatype": "utf8",
+        "newline": "\\n",
+        "topic": "",
+        "base64": false,
+        "x": 170,
+        "y": 420,
+        "wires": [
+            [
+                "12ce4fa5.6cdf8"
+            ]
+        ]
+    },
+    {
+        "id": "290deb65.f725dc",
+        "type": "file",
+        "z": "b5d1af96.0416f8",
+        "name": "Log",
+        "filename": "/home/user/Desktop/Logs/Configuration2/log2_nodered.txt",
+        "appendNewline": true,
+        "createDir": true,
+        "overwriteFile": "false",
+        "x": 1670,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8a7c3a10.82b54",
+        "type": "function",
+        "z": "b5d1af96.0416f8",
+        "name": "Apply timestamp",
+        "func": "var string = msg.payload;\n\nvar d = new Date();\nvar tmp = d.getTime();\n\nvar newMsg = {payload: \"[\" + tmp + \"] - \" + string};\nreturn newMsg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 1470,
+        "y": 240,
+        "wires": [
+            [
+                "290deb65.f725dc"
+            ]
+        ]
+    },
+    {
+        "id": "1829bd8b.c94482",
+        "type": "function",
+        "z": "b5d1af96.0416f8",
+        "name": "Apply Source",
+        "func": "var string = msg.payload;\n\nvar newMsg = {payload: \"[IFTTT Request] \" + string};\nreturn newMsg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 1220,
+        "y": 220,
+        "wires": [
+            [
+                "8a7c3a10.82b54"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,76 @@
+[1625236150208] - [Cooja] Received alert for mote 6, close to mote 5.
+[1625236150212] - [Cooja] Received alert for mote 4, close to mote 5.
+[1625236150342] - [Cooja] Received alert for mote 1, close to mote 2.
+[1625236150346] - [Cooja] Received alert for mote 3, close to mote 2.
+[1625236150412] - [Cooja] Received alert for mote 4, close to mote 6.
+[1625236150413] - [Cooja] Received alert for mote 5, close to mote 6.
+[1625236150415] - [Cooja] Received alert for mote 7, close to mote 6.
+[1625236150683] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236150693] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236150696] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236150697] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236150860] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236150872] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236150883] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236151426] - [Cooja] Received alert for mote 6, close to mote 4.
+[1625236151427] - [Cooja] Received alert for mote 5, close to mote 4.
+[1625236151770] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236151776] - [Cooja] Received alert for mote 2, close to mote 1.
+[1625236151778] - [Cooja] Received alert for mote 3, close to mote 1.
+[1625236151792] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236151958] - [Cooja] Received alert for mote 6, close to mote 7.
+[1625236152017] - [Cooja] Received alert for mote 3, close to mote 7.
+[1625236152025] - [Cooja] Received alert for mote 7, close to mote 3.
+[1625236152025] - [Cooja] Received alert for mote 1, close to mote 3.
+[1625236152026] - [Cooja] Received alert for mote 2, close to mote 3.
+[1625236152266] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236152272] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236152380] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236152382] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236152388] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236152422] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236152492] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236209278] - [Cooja] Received alert for mote 4, close to mote 5.
+[1625236209336] - [Cooja] Received alert for mote 1, close to mote 2.
+[1625236209740] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236209811] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236210427] - [Cooja] Received alert for mote 5, close to mote 4.
+[1625236210798] - [Cooja] Received alert for mote 2, close to mote 1.
+[1625236210879] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236211266] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236276636] - [Cooja] Received alert for mote 4, close to mote 5.
+[1625236276801] - [Cooja] Received alert for mote 1, close to mote 2.
+[1625236276808] - [Cooja] Received alert for mote 3, close to mote 2.
+[1625236277081] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236277253] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236277268] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236277848] - [Cooja] Received alert for mote 5, close to mote 4.
+[1625236278207] - [Cooja] Received alert for mote 3, close to mote 1.
+[1625236278212] - [Cooja] Received alert for mote 2, close to mote 1.
+[1625236278312] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236278528] - [Cooja] Received alert for mote 2, close to mote 3.
+[1625236278532] - [Cooja] Received alert for mote 1, close to mote 3.
+[1625236278675] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236278684] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236278877] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236278881] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236351232] - [Cooja] Received alert for mote 4, close to mote 5.
+[1625236351293] - [Cooja] Received alert for mote 1, close to mote 2.
+[1625236351296] - [Cooja] Received alert for mote 3, close to mote 2.
+[1625236351296] - [Cooja] Received alert for mote 6, close to mote 2.
+[1625236351513] - [Cooja] Received alert for mote 2, close to mote 6.
+[1625236351690] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236351745] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236351751] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236351816] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236351966] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236352513] - [Cooja] Received alert for mote 5, close to mote 4.
+[1625236352825] - [Cooja] Received alert for mote 3, close to mote 1.
+[1625236352831] - [Cooja] Received alert for mote 2, close to mote 1.
+[1625236352992] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236353134] - [Cooja] Received alert for mote 1, close to mote 3.
+[1625236353139] - [Cooja] Received alert for mote 2, close to mote 3.
+[1625236353207] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236353293] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236353583] - [IFTTT Request] Congratulations! You've fired the proximity_alert event
+[1625236353593] - [IFTTT Request] Congratulations! You've fired the proximity_alert event

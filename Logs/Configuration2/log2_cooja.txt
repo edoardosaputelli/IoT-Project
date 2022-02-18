@@ -1,0 +1,1523 @@
+00:04.321	ID:2	DEBUG: start mote 2.
+00:04.336	ID:6	DEBUG: start mote 6.
+00:04.433	ID:4	DEBUG: start mote 4.
+00:04.467	ID:1	DEBUG: start mote 1.
+00:04.487	ID:7	DEBUG: start mote 7.
+00:04.800	ID:5	DEBUG: start mote 5.
+00:04.812	ID:2	DEBUG: mote 2: timer fired.
+00:04.815	ID:2	DEBUG: mote 2: packet sent with timestamp 1.
+00:04.826	ID:6	DEBUG: mote 6: timer fired.
+00:04.831	ID:6	DEBUG: mote 6: packet sent with timestamp 1.
+00:04.924	ID:4	DEBUG: mote 4: timer fired.
+00:04.928	ID:4	DEBUG: mote 4: packet sent with timestamp 1.
+00:04.958	ID:1	DEBUG: mote 1: timer fired.
+00:04.961	ID:1	DEBUG: mote 1: packet sent with timestamp 1.
+00:04.978	ID:7	DEBUG: mote 7: timer fired.
+00:04.981	ID:7	DEBUG: mote 7: packet sent with timestamp 1.
+00:04.984	ID:3	DEBUG: start mote 3.
+00:05.291	ID:5	DEBUG: mote 5: timer fired.
+00:05.294	ID:5	DEBUG: mote 5: packet sent with timestamp 1.
+00:05.300	ID:2	DEBUG: mote 2: timer fired.
+00:05.304	ID:2	DEBUG: mote 2: packet sent with timestamp 2.
+00:05.315	ID:6	DEBUG: mote 6: timer fired.
+00:05.318	ID:6	DEBUG: mote 6: packet sent with timestamp 2.
+00:05.412	ID:4	DEBUG: mote 4: timer fired.
+00:05.416	ID:4	DEBUG: mote 4: packet sent with timestamp 2.
+00:05.446	ID:1	DEBUG: mote 1: timer fired.
+00:05.450	ID:1	DEBUG: mote 1: packet sent with timestamp 2.
+00:05.466	ID:7	DEBUG: mote 7: timer fired.
+00:05.469	ID:7	DEBUG: mote 7: packet sent with timestamp 2.
+00:05.475	ID:3	DEBUG: mote 3: timer fired.
+00:05.479	ID:3	DEBUG: mote 3: packet sent with timestamp 1.
+00:05.779	ID:5	DEBUG: mote 5: timer fired.
+00:05.783	ID:5	DEBUG: mote 5: packet sent with timestamp 2.
+00:05.788	ID:2	DEBUG: mote 2: timer fired.
+00:05.792	ID:2	DEBUG: mote 2: packet sent with timestamp 3.
+00:05.803	ID:6	DEBUG: mote 6: timer fired.
+00:05.806	ID:6	DEBUG: mote 6: packet sent with timestamp 3.
+00:05.901	ID:4	DEBUG: mote 4: timer fired.
+00:05.904	ID:4	DEBUG: mote 4: packet sent with timestamp 3.
+00:05.935	ID:1	DEBUG: mote 1: timer fired.
+00:05.939	ID:1	DEBUG: mote 1: packet sent with timestamp 3.
+00:05.954	ID:7	DEBUG: mote 7: timer fired.
+00:05.957	ID:7	DEBUG: mote 7: packet sent with timestamp 3.
+00:05.963	ID:3	DEBUG: mote 3: timer fired.
+00:05.967	ID:3	DEBUG: mote 3: packet sent with timestamp 2.
+00:06.267	ID:5	DEBUG: mote 5: timer fired.
+00:06.271	ID:5	DEBUG: mote 5: packet sent with timestamp 3.
+00:06.277	ID:2	DEBUG: mote 2: timer fired.
+00:06.281	ID:2	DEBUG: mote 2: packet sent with timestamp 4.
+00:06.282	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 3.
+00:06.282	ID:6	DEBUG: mote 6: packet received from mote 5 with timestamp 3.
+00:06.285	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 4.
+00:06.285	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 4.
+00:06.286	ID:4	DEBUG: mote 4: num of msg from mote 5 = 1 (tsp 3). [reset case] 
+00:06.286	ID:6	DEBUG: mote 6: num of msg from mote 5 = 1 (tsp 3). [reset case] 
+00:06.288	ID:3	DEBUG: mote 3: num of msg from mote 2 = 1 (tsp 4). [reset case] 
+00:06.288	ID:1	DEBUG: mote 1: num of msg from mote 2 = 1 (tsp 4). [reset case] 
+00:06.291	ID:6	DEBUG: mote 6: timer fired.
+00:06.295	ID:6	DEBUG: mote 6: packet sent with timestamp 4.
+00:06.301	ID:5	DEBUG: mote 5: packet received from mote 6 with timestamp 4.
+00:06.301	ID:7	DEBUG: mote 7: packet received from mote 6 with timestamp 4.
+00:06.301	ID:4	DEBUG: mote 4: packet received from mote 6 with timestamp 4.
+00:06.305	ID:5	DEBUG: mote 5: num of msg from mote 6 = 1 (tsp 4). [reset case] 
+00:06.305	ID:7	DEBUG: mote 7: num of msg from mote 6 = 1 (tsp 4). [reset case] 
+00:06.305	ID:4	DEBUG: mote 4: num of msg from mote 6 = 1 (tsp 4). [reset case] 
+00:06.389	ID:4	DEBUG: mote 4: timer fired.
+00:06.392	ID:4	DEBUG: mote 4: packet sent with timestamp 4.
+00:06.398	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 4.
+00:06.398	ID:6	DEBUG: mote 6: packet received from mote 4 with timestamp 4.
+00:06.402	ID:5	DEBUG: mote 5: num of msg from mote 4 = 1 (tsp 4). [reset case] 
+00:06.402	ID:6	DEBUG: mote 6: num of msg from mote 4 = 1 (tsp 4). [reset case] 
+00:06.423	ID:1	DEBUG: mote 1: timer fired.
+00:06.427	ID:1	DEBUG: mote 1: packet sent with timestamp 4.
+00:06.431	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 4.
+00:06.431	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 4.
+00:06.434	ID:2	DEBUG: mote 2: num of msg from mote 1 = 1 (tsp 4). [reset case] 
+00:06.434	ID:3	DEBUG: mote 3: num of msg from mote 1 = 1 (tsp 4). [reset case] 
+00:06.442	ID:7	DEBUG: mote 7: timer fired.
+00:06.446	ID:7	DEBUG: mote 7: packet sent with timestamp 4.
+00:06.453	ID:6	DEBUG: mote 6: packet received from mote 7 with timestamp 4.
+00:06.453	ID:3	DEBUG: mote 3: packet received from mote 7 with timestamp 4.
+00:06.456	ID:6	DEBUG: mote 6: num of msg from mote 7 = 1 (tsp 4). [reset case] 
+00:06.456	ID:3	DEBUG: mote 3: num of msg from mote 7 = 1 (tsp 4). [reset case] 
+00:06.458	ID:3	DEBUG: mote 3: timer fired.
+00:06.462	ID:3	DEBUG: mote 3: packet sent with timestamp 3.
+00:06.466	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 3.
+00:06.466	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 3.
+00:06.466	ID:7	DEBUG: mote 7: packet received from mote 3 with timestamp 3.
+00:06.470	ID:1	DEBUG: mote 1: num of msg from mote 3 = 1 (tsp 3). [reset case] 
+00:06.470	ID:2	DEBUG: mote 2: num of msg from mote 3 = 1 (tsp 3). [reset case] 
+00:06.470	ID:7	DEBUG: mote 7: num of msg from mote 3 = 1 (tsp 3). [reset case] 
+00:06.756	ID:5	DEBUG: mote 5: timer fired.
+00:06.759	ID:5	DEBUG: mote 5: packet sent with timestamp 4.
+00:06.765	ID:2	DEBUG: mote 2: timer fired.
+00:06.765	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 4.
+00:06.765	ID:6	DEBUG: mote 6: packet received from mote 5 with timestamp 4.
+00:06.768	ID:2	DEBUG: mote 2: packet sent with timestamp 5.
+00:06.769	ID:4	DEBUG: mote 4: num of msg from mote 5 = 2 (tsp 4). [consecutive case] 
+00:06.769	ID:6	DEBUG: mote 6: num of msg from mote 5 = 2 (tsp 4). [consecutive case] 
+00:06.780	ID:6	DEBUG: mote 6: timer fired.
+00:06.780	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 5.
+00:06.780	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 5.
+00:06.783	ID:6	DEBUG: mote 6: packet sent with timestamp 5.
+00:06.783	ID:1	DEBUG: mote 1: num of msg from mote 2 = 2 (tsp 5). [consecutive case] 
+00:06.783	ID:3	DEBUG: mote 3: num of msg from mote 2 = 2 (tsp 5). [consecutive case] 
+00:06.794	ID:4	DEBUG: mote 4: packet received from mote 6 with timestamp 5.
+00:06.794	ID:5	DEBUG: mote 5: packet received from mote 6 with timestamp 5.
+00:06.794	ID:7	DEBUG: mote 7: packet received from mote 6 with timestamp 5.
+00:06.797	ID:4	DEBUG: mote 4: num of msg from mote 6 = 2 (tsp 5). [consecutive case] 
+00:06.797	ID:7	DEBUG: mote 7: num of msg from mote 6 = 2 (tsp 5). [consecutive case] 
+00:06.798	ID:5	DEBUG: mote 5: num of msg from mote 6 = 2 (tsp 5). [consecutive case] 
+00:06.877	ID:4	DEBUG: mote 4: timer fired.
+00:06.881	ID:4	DEBUG: mote 4: packet sent with timestamp 5.
+00:06.889	ID:6	DEBUG: mote 6: packet received from mote 4 with timestamp 5.
+00:06.889	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 5.
+00:06.893	ID:5	DEBUG: mote 5: num of msg from mote 4 = 2 (tsp 5). [consecutive case] 
+00:06.893	ID:6	DEBUG: mote 6: num of msg from mote 4 = 2 (tsp 5). [consecutive case] 
+00:06.911	ID:1	DEBUG: mote 1: timer fired.
+00:06.914	ID:1	DEBUG: mote 1: packet sent with timestamp 5.
+00:06.924	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 5.
+00:06.924	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 5.
+00:06.928	ID:3	DEBUG: mote 3: num of msg from mote 1 = 2 (tsp 5). [consecutive case] 
+00:06.928	ID:2	DEBUG: mote 2: num of msg from mote 1 = 2 (tsp 5). [consecutive case] 
+00:06.931	ID:7	DEBUG: mote 7: timer fired.
+00:06.934	ID:7	DEBUG: mote 7: packet sent with timestamp 5.
+00:06.941	ID:6	DEBUG: mote 6: packet received from mote 7 with timestamp 5.
+00:06.941	ID:3	DEBUG: mote 3: packet received from mote 7 with timestamp 5.
+00:06.944	ID:6	DEBUG: mote 6: num of msg from mote 7 = 2 (tsp 5). [consecutive case] 
+00:06.944	ID:3	DEBUG: mote 3: num of msg from mote 7 = 2 (tsp 5). [consecutive case] 
+00:06.946	ID:3	DEBUG: mote 3: timer fired.
+00:06.950	ID:3	DEBUG: mote 3: packet sent with timestamp 4.
+00:06.954	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 4.
+00:06.954	ID:7	DEBUG: mote 7: packet received from mote 3 with timestamp 4.
+00:06.954	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 4.
+00:06.958	ID:1	DEBUG: mote 1: num of msg from mote 3 = 2 (tsp 4). [consecutive case] 
+00:06.958	ID:7	DEBUG: mote 7: num of msg from mote 3 = 2 (tsp 4). [consecutive case] 
+00:06.958	ID:2	DEBUG: mote 2: num of msg from mote 3 = 2 (tsp 4). [consecutive case] 
+00:07.244	ID:5	DEBUG: mote 5: timer fired.
+00:07.247	ID:5	DEBUG: mote 5: packet sent with timestamp 5.
+00:07.253	ID:2	DEBUG: mote 2: timer fired.
+00:07.257	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 5.
+00:07.257	ID:6	DEBUG: mote 6: packet received from mote 5 with timestamp 5.
+00:07.257	ID:2	DEBUG: mote 2: packet sent with timestamp 6.
+00:07.261	ID:4	DEBUG: mote 4: num of msg from mote 5 = 3 (tsp 5). [consecutive case] 
+00:07.261	ID:6	DEBUG: mote 6: num of msg from mote 5 = 3 (tsp 5). [consecutive case] 
+00:07.262	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 6.
+00:07.262	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 6.
+00:07.266	ID:1	DEBUG: mote 1: num of msg from mote 2 = 3 (tsp 6). [consecutive case] 
+00:07.266	ID:3	DEBUG: mote 3: num of msg from mote 2 = 3 (tsp 6). [consecutive case] 
+00:07.268	ID:6	DEBUG: mote 6: timer fired.
+00:07.271	ID:6	DEBUG: mote 6: packet sent with timestamp 6.
+00:07.281	ID:4	DEBUG: mote 4: packet received from mote 6 with timestamp 6.
+00:07.281	ID:5	DEBUG: mote 5: packet received from mote 6 with timestamp 6.
+00:07.281	ID:7	DEBUG: mote 7: packet received from mote 6 with timestamp 6.
+00:07.285	ID:5	DEBUG: mote 5: num of msg from mote 6 = 3 (tsp 6). [consecutive case] 
+00:07.285	ID:7	DEBUG: mote 7: num of msg from mote 6 = 3 (tsp 6). [consecutive case] 
+00:07.285	ID:4	DEBUG: mote 4: num of msg from mote 6 = 3 (tsp 6). [consecutive case] 
+00:07.366	ID:4	DEBUG: mote 4: timer fired.
+00:07.369	ID:4	DEBUG: mote 4: packet sent with timestamp 6.
+00:07.379	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 6.
+00:07.379	ID:6	DEBUG: mote 6: packet received from mote 4 with timestamp 6.
+00:07.383	ID:5	DEBUG: mote 5: num of msg from mote 4 = 3 (tsp 6). [consecutive case] 
+00:07.383	ID:6	DEBUG: mote 6: num of msg from mote 4 = 3 (tsp 6). [consecutive case] 
+00:07.399	ID:1	DEBUG: mote 1: timer fired.
+00:07.403	ID:1	DEBUG: mote 1: packet sent with timestamp 6.
+00:07.415	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 6.
+00:07.415	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 6.
+00:07.419	ID:2	DEBUG: mote 2: num of msg from mote 1 = 3 (tsp 6). [consecutive case] 
+00:07.419	ID:3	DEBUG: mote 3: num of msg from mote 1 = 3 (tsp 6). [consecutive case] 
+00:07.419	ID:7	DEBUG: mote 7: timer fired.
+00:07.422	ID:7	DEBUG: mote 7: packet sent with timestamp 6.
+00:07.428	ID:3	DEBUG: mote 3: timer fired.
+00:07.433	ID:3	DEBUG: mote 3: packet sent with timestamp 5.
+00:07.435	ID:6	DEBUG: mote 6: packet received from mote 7 with timestamp 6.
+00:07.437	ID:3	DEBUG: mote 3: packet received from mote 7 with timestamp 6.
+00:07.438	ID:6	DEBUG: mote 6: num of msg from mote 7 = 3 (tsp 6). [consecutive case] 
+00:07.439	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 5.
+00:07.439	ID:7	DEBUG: mote 7: packet received from mote 3 with timestamp 5.
+00:07.439	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 5.
+00:07.440	ID:3	DEBUG: mote 3: num of msg from mote 7 = 3 (tsp 6). [consecutive case] 
+00:07.442	ID:7	DEBUG: mote 7: num of msg from mote 3 = 3 (tsp 5). [consecutive case] 
+00:07.442	ID:2	DEBUG: mote 2: num of msg from mote 3 = 3 (tsp 5). [consecutive case] 
+00:07.442	ID:1	DEBUG: mote 1: num of msg from mote 3 = 3 (tsp 5). [consecutive case] 
+00:07.732	ID:5	DEBUG: mote 5: timer fired.
+00:07.736	ID:5	DEBUG: mote 5: packet sent with timestamp 6.
+00:07.742	ID:2	DEBUG: mote 2: timer fired.
+00:07.745	ID:2	DEBUG: mote 2: packet sent with timestamp 7.
+00:07.749	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 6.
+00:07.749	ID:6	DEBUG: mote 6: packet received from mote 5 with timestamp 6.
+00:07.752	ID:6	DEBUG: mote 6: num of msg from mote 5 = 4 (tsp 6). [consecutive case] 
+00:07.752	ID:4	DEBUG: mote 4: num of msg from mote 5 = 4 (tsp 6). [consecutive case] 
+00:07.753	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 7.
+00:07.753	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 7.
+00:07.756	ID:6	DEBUG: mote 6: timer fired.
+00:07.757	ID:1	DEBUG: mote 1: num of msg from mote 2 = 4 (tsp 7). [consecutive case] 
+00:07.757	ID:3	DEBUG: mote 3: num of msg from mote 2 = 4 (tsp 7). [consecutive case] 
+00:07.759	ID:6	DEBUG: mote 6: packet sent with timestamp 7.
+00:07.768	ID:5	DEBUG: mote 5: packet received from mote 6 with timestamp 7.
+00:07.768	ID:7	DEBUG: mote 7: packet received from mote 6 with timestamp 7.
+00:07.768	ID:4	DEBUG: mote 4: packet received from mote 6 with timestamp 7.
+00:07.772	ID:5	DEBUG: mote 5: num of msg from mote 6 = 4 (tsp 7). [consecutive case] 
+00:07.772	ID:7	DEBUG: mote 7: num of msg from mote 6 = 4 (tsp 7). [consecutive case] 
+00:07.772	ID:4	DEBUG: mote 4: num of msg from mote 6 = 4 (tsp 7). [consecutive case] 
+00:07.854	ID:4	DEBUG: mote 4: timer fired.
+00:07.857	ID:4	DEBUG: mote 4: packet sent with timestamp 7.
+00:07.870	ID:6	DEBUG: mote 6: packet received from mote 4 with timestamp 7.
+00:07.870	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 7.
+00:07.874	ID:6	DEBUG: mote 6: num of msg from mote 4 = 4 (tsp 7). [consecutive case] 
+00:07.874	ID:5	DEBUG: mote 5: num of msg from mote 4 = 4 (tsp 7). [consecutive case] 
+00:07.888	ID:1	DEBUG: mote 1: timer fired.
+00:07.891	ID:1	DEBUG: mote 1: packet sent with timestamp 7.
+00:07.899	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 7.
+00:07.899	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 7.
+00:07.903	ID:2	DEBUG: mote 2: num of msg from mote 1 = 4 (tsp 7). [consecutive case] 
+00:07.903	ID:3	DEBUG: mote 3: num of msg from mote 1 = 4 (tsp 7). [consecutive case] 
+00:07.907	ID:7	DEBUG: mote 7: timer fired.
+00:07.911	ID:7	DEBUG: mote 7: packet sent with timestamp 7.
+00:07.915	ID:6	DEBUG: mote 6: packet received from mote 7 with timestamp 7.
+00:07.915	ID:3	DEBUG: mote 3: packet received from mote 7 with timestamp 7.
+00:07.918	ID:6	DEBUG: mote 6: num of msg from mote 7 = 4 (tsp 7). [consecutive case] 
+00:07.919	ID:3	DEBUG: mote 3: num of msg from mote 7 = 4 (tsp 7). [consecutive case] 
+00:07.920	ID:3	DEBUG: mote 3: timer fired.
+00:07.923	ID:3	DEBUG: mote 3: packet sent with timestamp 6.
+00:07.931	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 6.
+00:07.931	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 6.
+00:07.931	ID:7	DEBUG: mote 7: packet received from mote 3 with timestamp 6.
+00:07.935	ID:1	DEBUG: mote 1: num of msg from mote 3 = 4 (tsp 6). [consecutive case] 
+00:07.935	ID:2	DEBUG: mote 2: num of msg from mote 3 = 4 (tsp 6). [consecutive case] 
+00:07.935	ID:7	DEBUG: mote 7: num of msg from mote 3 = 4 (tsp 6). [consecutive case] 
+00:08.221	ID:5	DEBUG: mote 5: timer fired.
+00:08.224	ID:5	DEBUG: mote 5: packet sent with timestamp 7.
+00:08.230	ID:2	DEBUG: mote 2: timer fired.
+00:08.233	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 7.
+00:08.233	ID:6	DEBUG: mote 6: packet received from mote 5 with timestamp 7.
+00:08.233	ID:2	DEBUG: mote 2: packet sent with timestamp 8.
+00:08.236	ID:4	DEBUG: mote 4: num of msg from mote 5 = 5 (tsp 7). [consecutive case] 
+00:08.236	ID:6	DEBUG: mote 6: num of msg from mote 5 = 5 (tsp 7). [consecutive case] 
+00:08.244	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 8.
+00:08.244	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 8.
+00:08.244	ID:6	DEBUG: mote 6: timer fired.
+00:08.248	ID:1	DEBUG: mote 1: num of msg from mote 2 = 5 (tsp 8). [consecutive case] 
+00:08.248	ID:3	DEBUG: mote 3: num of msg from mote 2 = 5 (tsp 8). [consecutive case] 
+00:08.248	ID:6	DEBUG: mote 6: packet sent with timestamp 8.
+00:08.259	ID:4	DEBUG: mote 4: packet received from mote 6 with timestamp 8.
+00:08.259	ID:5	DEBUG: mote 5: packet received from mote 6 with timestamp 8.
+00:08.259	ID:7	DEBUG: mote 7: packet received from mote 6 with timestamp 8.
+00:08.262	ID:4	DEBUG: mote 4: num of msg from mote 6 = 5 (tsp 8). [consecutive case] 
+00:08.262	ID:7	DEBUG: mote 7: num of msg from mote 6 = 5 (tsp 8). [consecutive case] 
+00:08.262	ID:5	DEBUG: mote 5: num of msg from mote 6 = 5 (tsp 8). [consecutive case] 
+00:08.342	ID:4	DEBUG: mote 4: timer fired.
+00:08.345	ID:4	DEBUG: mote 4: packet sent with timestamp 8.
+00:08.352	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 8.
+00:08.352	ID:6	DEBUG: mote 6: packet received from mote 4 with timestamp 8.
+00:08.355	ID:6	DEBUG: mote 6: num of msg from mote 4 = 5 (tsp 8). [consecutive case] 
+00:08.355	ID:5	DEBUG: mote 5: num of msg from mote 4 = 5 (tsp 8). [consecutive case] 
+00:08.376	ID:1	DEBUG: mote 1: timer fired.
+00:08.379	ID:1	DEBUG: mote 1: packet sent with timestamp 8.
+00:08.388	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 8.
+00:08.388	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 8.
+00:08.391	ID:3	DEBUG: mote 3: num of msg from mote 1 = 5 (tsp 8). [consecutive case] 
+00:08.391	ID:2	DEBUG: mote 2: num of msg from mote 1 = 5 (tsp 8). [consecutive case] 
+00:08.396	ID:7	DEBUG: mote 7: timer fired.
+00:08.400	ID:7	DEBUG: mote 7: packet sent with timestamp 8.
+00:08.403	ID:3	DEBUG: mote 3: packet received from mote 7 with timestamp 8.
+00:08.403	ID:6	DEBUG: mote 6: packet received from mote 7 with timestamp 8.
+00:08.406	ID:6	DEBUG: mote 6: num of msg from mote 7 = 5 (tsp 8). [consecutive case] 
+00:08.406	ID:3	DEBUG: mote 3: num of msg from mote 7 = 5 (tsp 8). [consecutive case] 
+00:08.408	ID:3	DEBUG: mote 3: timer fired.
+00:08.412	ID:3	DEBUG: mote 3: packet sent with timestamp 7.
+00:08.415	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 7.
+00:08.415	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 7.
+00:08.415	ID:7	DEBUG: mote 7: packet received from mote 3 with timestamp 7.
+00:08.419	ID:1	DEBUG: mote 1: num of msg from mote 3 = 5 (tsp 7). [consecutive case] 
+00:08.419	ID:2	DEBUG: mote 2: num of msg from mote 3 = 5 (tsp 7). [consecutive case] 
+00:08.419	ID:7	DEBUG: mote 7: num of msg from mote 3 = 5 (tsp 7). [consecutive case] 
+00:08.709	ID:5	DEBUG: mote 5: timer fired.
+00:08.712	ID:5	DEBUG: mote 5: packet sent with timestamp 8.
+00:08.718	ID:2	DEBUG: mote 2: timer fired.
+00:08.721	ID:6	DEBUG: mote 6: packet received from mote 5 with timestamp 8.
+00:08.721	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 8.
+00:08.722	ID:2	DEBUG: mote 2: packet sent with timestamp 9.
+00:08.724	ID:6	DEBUG: mote 6: num of msg from mote 5 = 6 (tsp 8). [consecutive case] 
+00:08.724	ID:4	DEBUG: mote 4: num of msg from mote 5 = 6 (tsp 8). [consecutive case] 
+00:08.726	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 9.
+00:08.726	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 9.
+00:08.730	ID:3	DEBUG: mote 3: num of msg from mote 2 = 6 (tsp 9). [consecutive case] 
+00:08.730	ID:1	DEBUG: mote 1: num of msg from mote 2 = 6 (tsp 9). [consecutive case] 
+00:08.733	ID:6	DEBUG: mote 6: timer fired.
+00:08.736	ID:6	DEBUG: mote 6: packet sent with timestamp 9.
+00:08.747	ID:4	DEBUG: mote 4: packet received from mote 6 with timestamp 9.
+00:08.747	ID:5	DEBUG: mote 5: packet received from mote 6 with timestamp 9.
+00:08.747	ID:7	DEBUG: mote 7: packet received from mote 6 with timestamp 9.
+00:08.751	ID:5	DEBUG: mote 5: num of msg from mote 6 = 6 (tsp 9). [consecutive case] 
+00:08.751	ID:7	DEBUG: mote 7: num of msg from mote 6 = 6 (tsp 9). [consecutive case] 
+00:08.751	ID:4	DEBUG: mote 4: num of msg from mote 6 = 6 (tsp 9). [consecutive case] 
+00:08.830	ID:4	DEBUG: mote 4: timer fired.
+00:08.834	ID:4	DEBUG: mote 4: packet sent with timestamp 9.
+00:08.839	ID:6	DEBUG: mote 6: packet received from mote 4 with timestamp 9.
+00:08.839	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 9.
+00:08.842	ID:5	DEBUG: mote 5: num of msg from mote 4 = 6 (tsp 9). [consecutive case] 
+00:08.842	ID:6	DEBUG: mote 6: num of msg from mote 4 = 6 (tsp 9). [consecutive case] 
+00:08.864	ID:1	DEBUG: mote 1: timer fired.
+00:08.868	ID:1	DEBUG: mote 1: packet sent with timestamp 9.
+00:08.872	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 9.
+00:08.872	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 9.
+00:08.875	ID:3	DEBUG: mote 3: num of msg from mote 1 = 6 (tsp 9). [consecutive case] 
+00:08.875	ID:2	DEBUG: mote 2: num of msg from mote 1 = 6 (tsp 9). [consecutive case] 
+00:08.884	ID:7	DEBUG: mote 7: timer fired.
+00:08.887	ID:7	DEBUG: mote 7: packet sent with timestamp 9.
+00:08.893	ID:3	DEBUG: mote 3: timer fired.
+00:08.898	ID:3	DEBUG: mote 3: packet sent with timestamp 8.
+00:08.899	ID:6	DEBUG: mote 6: packet received from mote 7 with timestamp 9.
+00:08.902	ID:3	DEBUG: mote 3: packet received from mote 7 with timestamp 9.
+00:08.902	ID:6	DEBUG: mote 6: num of msg from mote 7 = 6 (tsp 9). [consecutive case] 
+00:08.903	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 8.
+00:08.903	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 8.
+00:08.903	ID:7	DEBUG: mote 7: packet received from mote 3 with timestamp 8.
+00:08.905	ID:3	DEBUG: mote 3: num of msg from mote 7 = 6 (tsp 9). [consecutive case] 
+00:08.907	ID:1	DEBUG: mote 1: num of msg from mote 3 = 6 (tsp 8). [consecutive case] 
+00:08.907	ID:7	DEBUG: mote 7: num of msg from mote 3 = 6 (tsp 8). [consecutive case] 
+00:08.907	ID:2	DEBUG: mote 2: num of msg from mote 3 = 6 (tsp 8). [consecutive case] 
+00:09.197	ID:5	DEBUG: mote 5: timer fired.
+00:09.200	ID:5	DEBUG: mote 5: packet sent with timestamp 9.
+00:09.206	ID:2	DEBUG: mote 2: timer fired.
+00:09.210	ID:2	DEBUG: mote 2: packet sent with timestamp 10.
+00:09.211	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 9.
+00:09.211	ID:6	DEBUG: mote 6: packet received from mote 5 with timestamp 9.
+00:09.215	ID:4	DEBUG: mote 4: num of msg from mote 5 = 7 (tsp 9). [consecutive case] 
+00:09.215	ID:6	DEBUG: mote 6: num of msg from mote 5 = 7 (tsp 9). [consecutive case] 
+00:09.220	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 10.
+00:09.220	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 10.
+00:09.221	ID:6	DEBUG: mote 6: timer fired.
+00:09.224	ID:3	DEBUG: mote 3: num of msg from mote 2 = 7 (tsp 10). [consecutive case] 
+00:09.224	ID:1	DEBUG: mote 1: num of msg from mote 2 = 7 (tsp 10). [consecutive case] 
+00:09.224	ID:6	DEBUG: mote 6: packet sent with timestamp 10.
+00:09.236	ID:5	DEBUG: mote 5: packet received from mote 6 with timestamp 10.
+00:09.236	ID:7	DEBUG: mote 7: packet received from mote 6 with timestamp 10.
+00:09.236	ID:4	DEBUG: mote 4: packet received from mote 6 with timestamp 10.
+00:09.240	ID:5	DEBUG: mote 5: num of msg from mote 6 = 7 (tsp 10). [consecutive case] 
+00:09.240	ID:7	DEBUG: mote 7: num of msg from mote 6 = 7 (tsp 10). [consecutive case] 
+00:09.240	ID:4	DEBUG: mote 4: num of msg from mote 6 = 7 (tsp 10). [consecutive case] 
+00:09.319	ID:4	DEBUG: mote 4: timer fired.
+00:09.322	ID:4	DEBUG: mote 4: packet sent with timestamp 10.
+00:09.333	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 10.
+00:09.333	ID:6	DEBUG: mote 6: packet received from mote 4 with timestamp 10.
+00:09.337	ID:6	DEBUG: mote 6: num of msg from mote 4 = 7 (tsp 10). [consecutive case] 
+00:09.337	ID:5	DEBUG: mote 5: num of msg from mote 4 = 7 (tsp 10). [consecutive case] 
+00:09.353	ID:1	DEBUG: mote 1: timer fired.
+00:09.357	ID:1	DEBUG: mote 1: packet sent with timestamp 10.
+00:09.361	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 10.
+00:09.361	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 10.
+00:09.364	ID:2	DEBUG: mote 2: num of msg from mote 1 = 7 (tsp 10). [consecutive case] 
+00:09.364	ID:3	DEBUG: mote 3: num of msg from mote 1 = 7 (tsp 10). [consecutive case] 
+00:09.372	ID:7	DEBUG: mote 7: timer fired.
+00:09.376	ID:7	DEBUG: mote 7: packet sent with timestamp 10.
+00:09.383	ID:6	DEBUG: mote 6: packet received from mote 7 with timestamp 10.
+00:09.383	ID:3	DEBUG: mote 3: packet received from mote 7 with timestamp 10.
+00:09.387	ID:6	DEBUG: mote 6: num of msg from mote 7 = 7 (tsp 10). [consecutive case] 
+00:09.387	ID:3	DEBUG: mote 3: num of msg from mote 7 = 7 (tsp 10). [consecutive case] 
+00:09.389	ID:3	DEBUG: mote 3: timer fired.
+00:09.393	ID:3	DEBUG: mote 3: packet sent with timestamp 9.
+00:09.397	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 9.
+00:09.397	ID:7	DEBUG: mote 7: packet received from mote 3 with timestamp 9.
+00:09.397	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 9.
+00:09.400	ID:2	DEBUG: mote 2: num of msg from mote 3 = 7 (tsp 9). [consecutive case] 
+00:09.400	ID:1	DEBUG: mote 1: num of msg from mote 3 = 7 (tsp 9). [consecutive case] 
+00:09.400	ID:7	DEBUG: mote 7: num of msg from mote 3 = 7 (tsp 9). [consecutive case] 
+00:09.685	ID:5	DEBUG: mote 5: timer fired.
+00:09.689	ID:5	DEBUG: mote 5: packet sent with timestamp 10.
+00:09.695	ID:2	DEBUG: mote 2: timer fired.
+00:09.695	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 10.
+00:09.695	ID:6	DEBUG: mote 6: packet received from mote 5 with timestamp 10.
+00:09.698	ID:2	DEBUG: mote 2: packet sent with timestamp 11.
+00:09.699	ID:4	DEBUG: mote 4: num of msg from mote 5 = 8 (tsp 10). [consecutive case] 
+00:09.699	ID:6	DEBUG: mote 6: num of msg from mote 5 = 8 (tsp 10). [consecutive case] 
+00:09.708	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 11.
+00:09.708	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 11.
+00:09.709	ID:6	DEBUG: mote 6: timer fired.
+00:09.712	ID:1	DEBUG: mote 1: num of msg from mote 2 = 8 (tsp 11). [consecutive case] 
+00:09.712	ID:3	DEBUG: mote 3: num of msg from mote 2 = 8 (tsp 11). [consecutive case] 
+00:09.713	ID:6	DEBUG: mote 6: packet sent with timestamp 11.
+00:09.721	ID:5	DEBUG: mote 5: packet received from mote 6 with timestamp 11.
+00:09.721	ID:7	DEBUG: mote 7: packet received from mote 6 with timestamp 11.
+00:09.721	ID:4	DEBUG: mote 4: packet received from mote 6 with timestamp 11.
+00:09.725	ID:5	DEBUG: mote 5: num of msg from mote 6 = 8 (tsp 11). [consecutive case] 
+00:09.725	ID:7	DEBUG: mote 7: num of msg from mote 6 = 8 (tsp 11). [consecutive case] 
+00:09.725	ID:4	DEBUG: mote 4: num of msg from mote 6 = 8 (tsp 11). [consecutive case] 
+00:09.807	ID:4	DEBUG: mote 4: timer fired.
+00:09.810	ID:4	DEBUG: mote 4: packet sent with timestamp 11.
+00:09.816	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 11.
+00:09.816	ID:6	DEBUG: mote 6: packet received from mote 4 with timestamp 11.
+00:09.820	ID:6	DEBUG: mote 6: num of msg from mote 4 = 8 (tsp 11). [consecutive case] 
+00:09.820	ID:5	DEBUG: mote 5: num of msg from mote 4 = 8 (tsp 11). [consecutive case] 
+00:09.841	ID:1	DEBUG: mote 1: timer fired.
+00:09.844	ID:1	DEBUG: mote 1: packet sent with timestamp 11.
+00:09.854	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 11.
+00:09.854	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 11.
+00:09.857	ID:3	DEBUG: mote 3: num of msg from mote 1 = 8 (tsp 11). [consecutive case] 
+00:09.858	ID:2	DEBUG: mote 2: num of msg from mote 1 = 8 (tsp 11). [consecutive case] 
+00:09.860	ID:7	DEBUG: mote 7: timer fired.
+00:09.864	ID:7	DEBUG: mote 7: packet sent with timestamp 11.
+00:09.870	ID:3	DEBUG: mote 3: timer fired.
+00:09.872	ID:6	DEBUG: mote 6: packet received from mote 7 with timestamp 11.
+00:09.874	ID:3	DEBUG: mote 3: packet sent with timestamp 10.
+00:09.876	ID:6	DEBUG: mote 6: num of msg from mote 7 = 8 (tsp 11). [consecutive case] 
+00:09.878	ID:3	DEBUG: mote 3: packet received from mote 7 with timestamp 11.
+00:09.879	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 10.
+00:09.879	ID:7	DEBUG: mote 7: packet received from mote 3 with timestamp 10.
+00:09.879	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 10.
+00:09.882	ID:3	DEBUG: mote 3: num of msg from mote 7 = 8 (tsp 11). [consecutive case] 
+00:09.883	ID:2	DEBUG: mote 2: num of msg from mote 3 = 8 (tsp 10). [consecutive case] 
+00:09.883	ID:1	DEBUG: mote 1: num of msg from mote 3 = 8 (tsp 10). [consecutive case] 
+00:09.883	ID:7	DEBUG: mote 7: num of msg from mote 3 = 8 (tsp 10). [consecutive case] 
+00:10.174	ID:5	DEBUG: mote 5: timer fired.
+00:10.177	ID:5	DEBUG: mote 5: packet sent with timestamp 11.
+00:10.183	ID:2	DEBUG: mote 2: timer fired.
+00:10.186	ID:2	DEBUG: mote 2: packet sent with timestamp 12.
+00:10.189	ID:6	DEBUG: mote 6: packet received from mote 5 with timestamp 11.
+00:10.189	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 11.
+00:10.193	ID:6	DEBUG: mote 6: num of msg from mote 5 = 9 (tsp 11). [consecutive case] 
+00:10.193	ID:4	DEBUG: mote 4: num of msg from mote 5 = 9 (tsp 11). [consecutive case] 
+00:10.194	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 12.
+00:10.194	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 12.
+00:10.198	ID:6	DEBUG: mote 6: timer fired.
+00:10.198	ID:1	DEBUG: mote 1: num of msg from mote 2 = 9 (tsp 12). [consecutive case] 
+00:10.198	ID:3	DEBUG: mote 3: num of msg from mote 2 = 9 (tsp 12). [consecutive case] 
+00:10.201	ID:6	DEBUG: mote 6: packet sent with timestamp 12.
+00:10.208	ID:4	DEBUG: mote 4: packet received from mote 6 with timestamp 12.
+00:10.208	ID:5	DEBUG: mote 5: packet received from mote 6 with timestamp 12.
+00:10.208	ID:7	DEBUG: mote 7: packet received from mote 6 with timestamp 12.
+00:10.212	ID:4	DEBUG: mote 4: num of msg from mote 6 = 9 (tsp 12). [consecutive case] 
+00:10.212	ID:5	DEBUG: mote 5: num of msg from mote 6 = 9 (tsp 12). [consecutive case] 
+00:10.212	ID:7	DEBUG: mote 7: num of msg from mote 6 = 9 (tsp 12). [consecutive case] 
+00:10.295	ID:4	DEBUG: mote 4: timer fired.
+00:10.299	ID:4	DEBUG: mote 4: packet sent with timestamp 12.
+00:10.309	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 12.
+00:10.309	ID:6	DEBUG: mote 6: packet received from mote 4 with timestamp 12.
+00:10.313	ID:5	DEBUG: mote 5: num of msg from mote 4 = 9 (tsp 12). [consecutive case] 
+00:10.313	ID:6	DEBUG: mote 6: num of msg from mote 4 = 9 (tsp 12). [consecutive case] 
+00:10.329	ID:1	DEBUG: mote 1: timer fired.
+00:10.333	ID:1	DEBUG: mote 1: packet sent with timestamp 12.
+00:10.342	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 12.
+00:10.342	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 12.
+00:10.346	ID:3	DEBUG: mote 3: num of msg from mote 1 = 9 (tsp 12). [consecutive case] 
+00:10.346	ID:2	DEBUG: mote 2: num of msg from mote 1 = 9 (tsp 12). [consecutive case] 
+00:10.349	ID:7	DEBUG: mote 7: timer fired.
+00:10.353	ID:7	DEBUG: mote 7: packet sent with timestamp 12.
+00:10.357	ID:6	DEBUG: mote 6: packet received from mote 7 with timestamp 12.
+00:10.357	ID:3	DEBUG: mote 3: packet received from mote 7 with timestamp 12.
+00:10.361	ID:6	DEBUG: mote 6: num of msg from mote 7 = 9 (tsp 12). [consecutive case] 
+00:10.361	ID:3	DEBUG: mote 3: num of msg from mote 7 = 9 (tsp 12). [consecutive case] 
+00:10.363	ID:3	DEBUG: mote 3: timer fired.
+00:10.366	ID:3	DEBUG: mote 3: packet sent with timestamp 11.
+00:10.372	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 11.
+00:10.372	ID:7	DEBUG: mote 7: packet received from mote 3 with timestamp 11.
+00:10.372	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 11.
+00:10.376	ID:1	DEBUG: mote 1: num of msg from mote 3 = 9 (tsp 11). [consecutive case] 
+00:10.376	ID:7	DEBUG: mote 7: num of msg from mote 3 = 9 (tsp 11). [consecutive case] 
+00:10.376	ID:2	DEBUG: mote 2: num of msg from mote 3 = 9 (tsp 11). [consecutive case] 
+00:10.662	ID:5	DEBUG: mote 5: timer fired.
+00:10.665	ID:5	DEBUG: mote 5: packet sent with timestamp 12.
+00:10.671	ID:2	DEBUG: mote 2: timer fired.
+00:10.674	ID:6	DEBUG: mote 6: packet received from mote 5 with timestamp 12.
+00:10.674	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 12.
+00:10.675	ID:2	DEBUG: mote 2: packet sent with timestamp 13.
+00:10.678	ID:6	DEBUG: mote 6: num of msg from mote 5 = 10 (tsp 12). [consecutive case] 
+00:10.678	ID:4	DEBUG: mote 4: num of msg from mote 5 = 10 (tsp 12). [consecutive case] 
+00:10.680	ID:6	ALERT FROM MOTE 6: I'm close to mote 5!
+00:10.680	ID:4	ALERT FROM MOTE 4: I'm close to mote 5!
+00:10.686	ID:6	DEBUG: mote 6: timer fired.
+00:10.687	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 13.
+00:10.687	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 13.
+00:10.689	ID:6	DEBUG: mote 6: packet sent with timestamp 13.
+00:10.691	ID:1	DEBUG: mote 1: num of msg from mote 2 = 10 (tsp 13). [consecutive case] 
+00:10.691	ID:3	DEBUG: mote 3: num of msg from mote 2 = 10 (tsp 13). [consecutive case] 
+00:10.693	ID:1	ALERT FROM MOTE 1: I'm close to mote 2!
+00:10.693	ID:3	ALERT FROM MOTE 3: I'm close to mote 2!
+00:10.695	ID:4	DEBUG: mote 4: packet received from mote 6 with timestamp 13.
+00:10.695	ID:5	DEBUG: mote 5: packet received from mote 6 with timestamp 13.
+00:10.695	ID:7	DEBUG: mote 7: packet received from mote 6 with timestamp 13.
+00:10.699	ID:4	DEBUG: mote 4: num of msg from mote 6 = 10 (tsp 13). [consecutive case] 
+00:10.699	ID:5	DEBUG: mote 5: num of msg from mote 6 = 10 (tsp 13). [consecutive case] 
+00:10.699	ID:7	DEBUG: mote 7: num of msg from mote 6 = 10 (tsp 13). [consecutive case] 
+00:10.701	ID:4	ALERT FROM MOTE 4: I'm close to mote 6!
+00:10.701	ID:5	ALERT FROM MOTE 5: I'm close to mote 6!
+00:10.701	ID:7	ALERT FROM MOTE 7: I'm close to mote 6!
+00:10.784	ID:4	DEBUG: mote 4: timer fired.
+00:10.787	ID:4	DEBUG: mote 4: packet sent with timestamp 13.
+00:10.796	ID:6	DEBUG: mote 6: packet received from mote 4 with timestamp 13.
+00:10.796	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 13.
+00:10.800	ID:6	DEBUG: mote 6: num of msg from mote 4 = 10 (tsp 13). [consecutive case] 
+00:10.800	ID:5	DEBUG: mote 5: num of msg from mote 4 = 10 (tsp 13). [consecutive case] 
+00:10.802	ID:6	ALERT FROM MOTE 6: I'm close to mote 4!
+00:10.802	ID:5	ALERT FROM MOTE 5: I'm close to mote 4!
+00:10.817	ID:1	DEBUG: mote 1: timer fired.
+00:10.821	ID:1	DEBUG: mote 1: packet sent with timestamp 13.
+00:10.830	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 13.
+00:10.830	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 13.
+00:10.834	ID:2	DEBUG: mote 2: num of msg from mote 1 = 10 (tsp 13). [consecutive case] 
+00:10.834	ID:3	DEBUG: mote 3: num of msg from mote 1 = 10 (tsp 13). [consecutive case] 
+00:10.836	ID:2	ALERT FROM MOTE 2: I'm close to mote 1!
+00:10.836	ID:3	ALERT FROM MOTE 3: I'm close to mote 1!
+00:10.837	ID:7	DEBUG: mote 7: timer fired.
+00:10.840	ID:7	DEBUG: mote 7: packet sent with timestamp 13.
+00:10.847	ID:3	DEBUG: mote 3: timer fired.
+00:10.849	ID:6	DEBUG: mote 6: packet received from mote 7 with timestamp 13.
+00:10.851	ID:3	DEBUG: mote 3: packet sent with timestamp 12.
+00:10.853	ID:6	DEBUG: mote 6: num of msg from mote 7 = 10 (tsp 13). [consecutive case] 
+00:10.855	ID:3	DEBUG: mote 3: packet received from mote 7 with timestamp 13.
+00:10.855	ID:6	ALERT FROM MOTE 6: I'm close to mote 7!
+00:10.857	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 12.
+00:10.857	ID:7	DEBUG: mote 7: packet received from mote 3 with timestamp 12.
+00:10.857	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 12.
+00:10.859	ID:3	DEBUG: mote 3: num of msg from mote 7 = 10 (tsp 13). [consecutive case] 
+00:10.861	ID:3	ALERT FROM MOTE 3: I'm close to mote 7!
+00:10.861	ID:7	DEBUG: mote 7: num of msg from mote 3 = 10 (tsp 12). [consecutive case] 
+00:10.861	ID:1	DEBUG: mote 1: num of msg from mote 3 = 10 (tsp 12). [consecutive case] 
+00:10.861	ID:2	DEBUG: mote 2: num of msg from mote 3 = 10 (tsp 12). [consecutive case] 
+00:10.863	ID:7	ALERT FROM MOTE 7: I'm close to mote 3!
+00:10.863	ID:1	ALERT FROM MOTE 1: I'm close to mote 3!
+00:10.863	ID:2	ALERT FROM MOTE 2: I'm close to mote 3!
+00:11.150	ID:5	DEBUG: mote 5: timer fired.
+00:11.154	ID:5	DEBUG: mote 5: packet sent with timestamp 13.
+00:11.160	ID:2	DEBUG: mote 2: timer fired.
+00:11.163	ID:2	DEBUG: mote 2: packet sent with timestamp 14.
+00:11.166	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 13.
+00:11.166	ID:6	DEBUG: mote 6: packet received from mote 5 with timestamp 13.
+00:11.169	ID:4	DEBUG: mote 4: num of msg from mote 5 = 1 (tsp 13). [reset case] 
+00:11.169	ID:6	DEBUG: mote 6: num of msg from mote 5 = 1 (tsp 13). [reset case] 
+00:11.174	ID:6	DEBUG: mote 6: timer fired.
+00:11.175	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 14.
+00:11.175	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 14.
+00:11.178	ID:6	DEBUG: mote 6: packet sent with timestamp 14.
+00:11.179	ID:1	DEBUG: mote 1: num of msg from mote 2 = 1 (tsp 14). [reset case] 
+00:11.179	ID:3	DEBUG: mote 3: num of msg from mote 2 = 1 (tsp 14). [reset case] 
+00:11.187	ID:5	DEBUG: mote 5: packet received from mote 6 with timestamp 14.
+00:11.187	ID:7	DEBUG: mote 7: packet received from mote 6 with timestamp 14.
+00:11.187	ID:4	DEBUG: mote 4: packet received from mote 6 with timestamp 14.
+00:11.191	ID:5	DEBUG: mote 5: num of msg from mote 6 = 1 (tsp 14). [reset case] 
+00:11.191	ID:7	DEBUG: mote 7: num of msg from mote 6 = 1 (tsp 14). [reset case] 
+00:11.191	ID:4	DEBUG: mote 4: num of msg from mote 6 = 1 (tsp 14). [reset case] 
+00:11.272	ID:4	DEBUG: mote 4: timer fired.
+00:11.275	ID:4	DEBUG: mote 4: packet sent with timestamp 14.
+00:11.281	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 14.
+00:11.281	ID:6	DEBUG: mote 6: packet received from mote 4 with timestamp 14.
+00:11.285	ID:5	DEBUG: mote 5: num of msg from mote 4 = 1 (tsp 14). [reset case] 
+00:11.285	ID:6	DEBUG: mote 6: num of msg from mote 4 = 1 (tsp 14). [reset case] 
+00:11.306	ID:1	DEBUG: mote 1: timer fired.
+00:11.309	ID:1	DEBUG: mote 1: packet sent with timestamp 14.
+00:11.320	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 14.
+00:11.320	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 14.
+00:11.323	ID:3	DEBUG: mote 3: num of msg from mote 1 = 1 (tsp 14). [reset case] 
+00:11.323	ID:2	DEBUG: mote 2: num of msg from mote 1 = 1 (tsp 14). [reset case] 
+00:11.325	ID:7	DEBUG: mote 7: timer fired.
+00:11.329	ID:7	DEBUG: mote 7: packet sent with timestamp 14.
+00:11.334	ID:6	DEBUG: mote 6: packet received from mote 7 with timestamp 14.
+00:11.334	ID:3	DEBUG: mote 3: packet received from mote 7 with timestamp 14.
+00:11.338	ID:6	DEBUG: mote 6: num of msg from mote 7 = 1 (tsp 14). [reset case] 
+00:11.338	ID:3	DEBUG: mote 3: num of msg from mote 7 = 1 (tsp 14). [reset case] 
+00:11.339	ID:3	DEBUG: mote 3: timer fired.
+00:11.343	ID:3	DEBUG: mote 3: packet sent with timestamp 13.
+00:11.349	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 13.
+00:11.349	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 13.
+00:11.349	ID:7	DEBUG: mote 7: packet received from mote 3 with timestamp 13.
+00:11.353	ID:1	DEBUG: mote 1: num of msg from mote 3 = 1 (tsp 13). [reset case] 
+00:11.353	ID:2	DEBUG: mote 2: num of msg from mote 3 = 1 (tsp 13). [reset case] 
+00:11.353	ID:7	DEBUG: mote 7: num of msg from mote 3 = 1 (tsp 13). [reset case] 
+00:11.639	ID:5	DEBUG: mote 5: timer fired.
+00:11.642	ID:5	DEBUG: mote 5: packet sent with timestamp 14.
+00:11.648	ID:2	DEBUG: mote 2: timer fired.
+00:11.650	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 14.
+00:11.650	ID:6	DEBUG: mote 6: packet received from mote 5 with timestamp 14.
+00:11.652	ID:2	DEBUG: mote 2: packet sent with timestamp 15.
+00:11.654	ID:4	DEBUG: mote 4: num of msg from mote 5 = 2 (tsp 14). [consecutive case] 
+00:11.654	ID:6	DEBUG: mote 6: num of msg from mote 5 = 2 (tsp 14). [consecutive case] 
+00:11.656	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 15.
+00:11.656	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 15.
+00:11.660	ID:1	DEBUG: mote 1: num of msg from mote 2 = 2 (tsp 15). [consecutive case] 
+00:11.660	ID:3	DEBUG: mote 3: num of msg from mote 2 = 2 (tsp 15). [consecutive case] 
+00:11.662	ID:6	DEBUG: mote 6: timer fired.
+00:11.666	ID:6	DEBUG: mote 6: packet sent with timestamp 15.
+00:11.674	ID:4	DEBUG: mote 4: packet received from mote 6 with timestamp 15.
+00:11.674	ID:5	DEBUG: mote 5: packet received from mote 6 with timestamp 15.
+00:11.674	ID:7	DEBUG: mote 7: packet received from mote 6 with timestamp 15.
+00:11.678	ID:4	DEBUG: mote 4: num of msg from mote 6 = 2 (tsp 15). [consecutive case] 
+00:11.678	ID:5	DEBUG: mote 5: num of msg from mote 6 = 2 (tsp 15). [consecutive case] 
+00:11.678	ID:7	DEBUG: mote 7: num of msg from mote 6 = 2 (tsp 15). [consecutive case] 
+00:11.760	ID:4	DEBUG: mote 4: timer fired.
+00:11.764	ID:4	DEBUG: mote 4: packet sent with timestamp 15.
+00:11.773	ID:6	DEBUG: mote 6: packet received from mote 4 with timestamp 15.
+00:11.773	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 15.
+00:11.777	ID:5	DEBUG: mote 5: num of msg from mote 4 = 2 (tsp 15). [consecutive case] 
+00:11.777	ID:6	DEBUG: mote 6: num of msg from mote 4 = 2 (tsp 15). [consecutive case] 
+00:11.794	ID:1	DEBUG: mote 1: timer fired.
+00:11.797	ID:1	DEBUG: mote 1: packet sent with timestamp 15.
+00:11.809	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 15.
+00:11.809	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 15.
+00:11.813	ID:3	DEBUG: mote 3: num of msg from mote 1 = 2 (tsp 15). [consecutive case] 
+00:11.813	ID:2	DEBUG: mote 2: num of msg from mote 1 = 2 (tsp 15). [consecutive case] 
+00:11.814	ID:7	DEBUG: mote 7: timer fired.
+00:11.817	ID:7	DEBUG: mote 7: packet sent with timestamp 15.
+00:11.823	ID:3	DEBUG: mote 3: timer fired.
+00:11.827	ID:3	DEBUG: mote 3: packet sent with timestamp 14.
+00:11.828	ID:6	DEBUG: mote 6: packet received from mote 7 with timestamp 15.
+00:11.831	ID:6	DEBUG: mote 6: num of msg from mote 7 = 2 (tsp 15). [consecutive case] 
+00:11.832	ID:3	DEBUG: mote 3: packet received from mote 7 with timestamp 15.
+00:11.833	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 14.
+00:11.833	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 14.
+00:11.833	ID:7	DEBUG: mote 7: packet received from mote 3 with timestamp 14.
+00:11.836	ID:3	DEBUG: mote 3: num of msg from mote 7 = 2 (tsp 15). [consecutive case] 
+00:11.837	ID:1	DEBUG: mote 1: num of msg from mote 3 = 2 (tsp 14). [consecutive case] 
+00:11.837	ID:2	DEBUG: mote 2: num of msg from mote 3 = 2 (tsp 14). [consecutive case] 
+00:11.837	ID:7	DEBUG: mote 7: num of msg from mote 3 = 2 (tsp 14). [consecutive case] 
+00:12.127	ID:5	DEBUG: mote 5: timer fired.
+00:12.130	ID:5	DEBUG: mote 5: packet sent with timestamp 15.
+00:12.136	ID:2	DEBUG: mote 2: timer fired.
+00:12.136	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 15.
+00:12.136	ID:6	DEBUG: mote 6: packet received from mote 5 with timestamp 15.
+00:12.140	ID:2	DEBUG: mote 2: packet sent with timestamp 16.
+00:12.140	ID:4	DEBUG: mote 4: num of msg from mote 5 = 3 (tsp 15). [consecutive case] 
+00:12.140	ID:6	DEBUG: mote 6: num of msg from mote 5 = 3 (tsp 15). [consecutive case] 
+00:12.151	ID:6	DEBUG: mote 6: timer fired.
+00:12.152	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 16.
+00:12.152	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 16.
+00:12.155	ID:6	DEBUG: mote 6: packet sent with timestamp 16.
+00:12.156	ID:3	DEBUG: mote 3: num of msg from mote 2 = 3 (tsp 16). [consecutive case] 
+00:12.156	ID:1	DEBUG: mote 1: num of msg from mote 2 = 3 (tsp 16). [consecutive case] 
+00:12.159	ID:4	DEBUG: mote 4: packet received from mote 6 with timestamp 16.
+00:12.159	ID:5	DEBUG: mote 5: packet received from mote 6 with timestamp 16.
+00:12.159	ID:7	DEBUG: mote 7: packet received from mote 6 with timestamp 16.
+00:12.163	ID:4	DEBUG: mote 4: num of msg from mote 6 = 3 (tsp 16). [consecutive case] 
+00:12.163	ID:5	DEBUG: mote 5: num of msg from mote 6 = 3 (tsp 16). [consecutive case] 
+00:12.163	ID:7	DEBUG: mote 7: num of msg from mote 6 = 3 (tsp 16). [consecutive case] 
+00:12.248	ID:4	DEBUG: mote 4: timer fired.
+00:12.252	ID:4	DEBUG: mote 4: packet sent with timestamp 16.
+00:12.263	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 16.
+00:12.263	ID:6	DEBUG: mote 6: packet received from mote 4 with timestamp 16.
+00:12.267	ID:5	DEBUG: mote 5: num of msg from mote 4 = 3 (tsp 16). [consecutive case] 
+00:12.267	ID:6	DEBUG: mote 6: num of msg from mote 4 = 3 (tsp 16). [consecutive case] 
+00:12.282	ID:1	DEBUG: mote 1: timer fired.
+00:12.286	ID:1	DEBUG: mote 1: packet sent with timestamp 16.
+00:12.292	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 16.
+00:12.292	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 16.
+00:12.296	ID:3	DEBUG: mote 3: num of msg from mote 1 = 3 (tsp 16). [consecutive case] 
+00:12.296	ID:2	DEBUG: mote 2: num of msg from mote 1 = 3 (tsp 16). [consecutive case] 
+00:12.302	ID:7	DEBUG: mote 7: timer fired.
+00:12.305	ID:7	DEBUG: mote 7: packet sent with timestamp 16.
+00:12.311	ID:3	DEBUG: mote 3: timer fired.
+00:12.316	ID:3	DEBUG: mote 3: packet sent with timestamp 15.
+00:12.316	ID:6	DEBUG: mote 6: packet received from mote 7 with timestamp 16.
+00:12.320	ID:3	DEBUG: mote 3: packet received from mote 7 with timestamp 16.
+00:12.320	ID:6	DEBUG: mote 6: num of msg from mote 7 = 3 (tsp 16). [consecutive case] 
+00:12.322	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 15.
+00:12.322	ID:7	DEBUG: mote 7: packet received from mote 3 with timestamp 15.
+00:12.322	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 15.
+00:12.324	ID:3	DEBUG: mote 3: num of msg from mote 7 = 3 (tsp 16). [consecutive case] 
+00:12.326	ID:1	DEBUG: mote 1: num of msg from mote 3 = 3 (tsp 15). [consecutive case] 
+00:12.326	ID:7	DEBUG: mote 7: num of msg from mote 3 = 3 (tsp 15). [consecutive case] 
+00:12.326	ID:2	DEBUG: mote 2: num of msg from mote 3 = 3 (tsp 15). [consecutive case] 
+00:12.615	ID:5	DEBUG: mote 5: timer fired.
+00:12.619	ID:5	DEBUG: mote 5: packet sent with timestamp 16.
+00:12.624	ID:2	DEBUG: mote 2: timer fired.
+00:12.627	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 16.
+00:12.627	ID:6	DEBUG: mote 6: packet received from mote 5 with timestamp 16.
+00:12.628	ID:2	DEBUG: mote 2: packet sent with timestamp 17.
+00:12.631	ID:4	DEBUG: mote 4: num of msg from mote 5 = 4 (tsp 16). [consecutive case] 
+00:12.631	ID:6	DEBUG: mote 6: num of msg from mote 5 = 4 (tsp 16). [consecutive case] 
+00:12.636	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 17.
+00:12.636	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 17.
+00:12.639	ID:6	DEBUG: mote 6: timer fired.
+00:12.639	ID:3	DEBUG: mote 3: num of msg from mote 2 = 4 (tsp 17). [consecutive case] 
+00:12.639	ID:1	DEBUG: mote 1: num of msg from mote 2 = 4 (tsp 17). [consecutive case] 
+00:12.642	ID:6	DEBUG: mote 6: packet sent with timestamp 17.
+00:12.652	ID:4	DEBUG: mote 4: packet received from mote 6 with timestamp 17.
+00:12.652	ID:5	DEBUG: mote 5: packet received from mote 6 with timestamp 17.
+00:12.652	ID:7	DEBUG: mote 7: packet received from mote 6 with timestamp 17.
+00:12.656	ID:5	DEBUG: mote 5: num of msg from mote 6 = 4 (tsp 17). [consecutive case] 
+00:12.656	ID:7	DEBUG: mote 7: num of msg from mote 6 = 4 (tsp 17). [consecutive case] 
+00:12.656	ID:4	DEBUG: mote 4: num of msg from mote 6 = 4 (tsp 17). [consecutive case] 
+00:12.737	ID:4	DEBUG: mote 4: timer fired.
+00:12.740	ID:4	DEBUG: mote 4: packet sent with timestamp 17.
+00:12.747	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 17.
+00:12.747	ID:6	DEBUG: mote 6: packet received from mote 4 with timestamp 17.
+00:12.751	ID:5	DEBUG: mote 5: num of msg from mote 4 = 4 (tsp 17). [consecutive case] 
+00:12.751	ID:6	DEBUG: mote 6: num of msg from mote 4 = 4 (tsp 17). [consecutive case] 
+00:12.770	ID:1	DEBUG: mote 1: timer fired.
+00:12.774	ID:1	DEBUG: mote 1: packet sent with timestamp 17.
+00:12.780	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 17.
+00:12.780	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 17.
+00:12.784	ID:2	DEBUG: mote 2: num of msg from mote 1 = 4 (tsp 17). [consecutive case] 
+00:12.784	ID:3	DEBUG: mote 3: num of msg from mote 1 = 4 (tsp 17). [consecutive case] 
+00:12.790	ID:7	DEBUG: mote 7: timer fired.
+00:12.794	ID:7	DEBUG: mote 7: packet sent with timestamp 17.
+00:12.799	ID:3	DEBUG: mote 3: timer fired.
+00:12.803	ID:3	DEBUG: mote 3: packet sent with timestamp 16.
+00:13.103	ID:5	DEBUG: mote 5: timer fired.
+00:13.107	ID:5	DEBUG: mote 5: packet sent with timestamp 17.
+00:13.113	ID:2	DEBUG: mote 2: timer fired.
+00:13.115	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 17.
+00:13.117	ID:2	DEBUG: mote 2: packet sent with timestamp 18.
+00:13.119	ID:4	DEBUG: mote 4: num of msg from mote 5 = 5 (tsp 17). [consecutive case] 
+00:13.122	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 18.
+00:13.125	ID:1	DEBUG: mote 1: num of msg from mote 2 = 5 (tsp 18). [consecutive case] 
+00:13.127	ID:6	DEBUG: mote 6: timer fired.
+00:13.131	ID:6	DEBUG: mote 6: packet sent with timestamp 18.
+00:13.225	ID:4	DEBUG: mote 4: timer fired.
+00:13.228	ID:4	DEBUG: mote 4: packet sent with timestamp 18.
+00:13.234	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 18.
+00:13.238	ID:5	DEBUG: mote 5: num of msg from mote 4 = 5 (tsp 18). [consecutive case] 
+00:13.259	ID:1	DEBUG: mote 1: timer fired.
+00:13.262	ID:1	DEBUG: mote 1: packet sent with timestamp 18.
+00:13.270	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 18.
+00:13.274	ID:2	DEBUG: mote 2: num of msg from mote 1 = 5 (tsp 18). [consecutive case] 
+00:13.278	ID:7	DEBUG: mote 7: timer fired.
+00:13.283	ID:7	DEBUG: mote 7: packet sent with timestamp 18.
+00:13.288	ID:3	DEBUG: mote 3: timer fired.
+00:13.291	ID:3	DEBUG: mote 3: packet sent with timestamp 17.
+00:13.592	ID:5	DEBUG: mote 5: timer fired.
+00:13.595	ID:5	DEBUG: mote 5: packet sent with timestamp 18.
+00:13.601	ID:2	DEBUG: mote 2: timer fired.
+00:13.604	ID:2	DEBUG: mote 2: packet sent with timestamp 19.
+00:13.608	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 18.
+00:13.612	ID:4	DEBUG: mote 4: num of msg from mote 5 = 6 (tsp 18). [consecutive case] 
+00:13.615	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 19.
+00:13.616	ID:6	DEBUG: mote 6: timer fired.
+00:13.619	ID:6	DEBUG: mote 6: packet sent with timestamp 19.
+00:13.619	ID:1	DEBUG: mote 1: num of msg from mote 2 = 6 (tsp 19). [consecutive case] 
+00:13.713	ID:4	DEBUG: mote 4: timer fired.
+00:13.717	ID:4	DEBUG: mote 4: packet sent with timestamp 19.
+00:13.724	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 19.
+00:13.728	ID:5	DEBUG: mote 5: num of msg from mote 4 = 6 (tsp 19). [consecutive case] 
+00:13.747	ID:1	DEBUG: mote 1: timer fired.
+00:13.751	ID:1	DEBUG: mote 1: packet sent with timestamp 19.
+00:13.760	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 19.
+00:13.764	ID:2	DEBUG: mote 2: num of msg from mote 1 = 6 (tsp 19). [consecutive case] 
+00:13.767	ID:7	DEBUG: mote 7: timer fired.
+00:13.770	ID:7	DEBUG: mote 7: packet sent with timestamp 19.
+00:13.776	ID:3	DEBUG: mote 3: timer fired.
+00:13.779	ID:3	DEBUG: mote 3: packet sent with timestamp 18.
+00:14.080	ID:5	DEBUG: mote 5: timer fired.
+00:14.083	ID:5	DEBUG: mote 5: packet sent with timestamp 19.
+00:14.089	ID:2	DEBUG: mote 2: timer fired.
+00:14.092	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 19.
+00:14.093	ID:2	DEBUG: mote 2: packet sent with timestamp 20.
+00:14.096	ID:4	DEBUG: mote 4: num of msg from mote 5 = 7 (tsp 19). [consecutive case] 
+00:14.103	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 20.
+00:14.104	ID:6	DEBUG: mote 6: timer fired.
+00:14.106	ID:1	DEBUG: mote 1: num of msg from mote 2 = 7 (tsp 20). [consecutive case] 
+00:14.108	ID:6	DEBUG: mote 6: packet sent with timestamp 20.
+00:14.201	ID:4	DEBUG: mote 4: timer fired.
+00:14.205	ID:4	DEBUG: mote 4: packet sent with timestamp 20.
+00:14.212	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 20.
+00:14.216	ID:5	DEBUG: mote 5: num of msg from mote 4 = 7 (tsp 20). [consecutive case] 
+00:14.235	ID:1	DEBUG: mote 1: timer fired.
+00:14.240	ID:1	DEBUG: mote 1: packet sent with timestamp 20.
+00:14.243	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 20.
+00:14.247	ID:2	DEBUG: mote 2: num of msg from mote 1 = 7 (tsp 20). [consecutive case] 
+00:14.255	ID:7	DEBUG: mote 7: timer fired.
+00:14.258	ID:7	DEBUG: mote 7: packet sent with timestamp 20.
+00:14.264	ID:3	DEBUG: mote 3: timer fired.
+00:14.268	ID:3	DEBUG: mote 3: packet sent with timestamp 19.
+00:14.568	ID:5	DEBUG: mote 5: timer fired.
+00:14.572	ID:5	DEBUG: mote 5: packet sent with timestamp 20.
+00:14.578	ID:2	DEBUG: mote 2: timer fired.
+00:14.581	ID:2	DEBUG: mote 2: packet sent with timestamp 21.
+00:14.584	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 20.
+00:14.588	ID:4	DEBUG: mote 4: num of msg from mote 5 = 8 (tsp 20). [consecutive case] 
+00:14.588	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 21.
+00:14.592	ID:6	DEBUG: mote 6: timer fired.
+00:14.592	ID:1	DEBUG: mote 1: num of msg from mote 2 = 8 (tsp 21). [consecutive case] 
+00:14.596	ID:6	DEBUG: mote 6: packet sent with timestamp 21.
+00:14.690	ID:4	DEBUG: mote 4: timer fired.
+00:14.693	ID:4	DEBUG: mote 4: packet sent with timestamp 21.
+00:14.703	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 21.
+00:14.707	ID:5	DEBUG: mote 5: num of msg from mote 4 = 8 (tsp 21). [consecutive case] 
+00:14.724	ID:1	DEBUG: mote 1: timer fired.
+00:14.727	ID:1	DEBUG: mote 1: packet sent with timestamp 21.
+00:14.733	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 21.
+00:14.737	ID:2	DEBUG: mote 2: num of msg from mote 1 = 8 (tsp 21). [consecutive case] 
+00:14.743	ID:7	DEBUG: mote 7: timer fired.
+00:14.747	ID:7	DEBUG: mote 7: packet sent with timestamp 21.
+00:14.752	ID:3	DEBUG: mote 3: timer fired.
+00:14.756	ID:3	DEBUG: mote 3: packet sent with timestamp 20.
+00:15.057	ID:5	DEBUG: mote 5: timer fired.
+00:15.060	ID:5	DEBUG: mote 5: packet sent with timestamp 21.
+00:15.066	ID:2	DEBUG: mote 2: timer fired.
+00:15.068	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 21.
+00:15.069	ID:2	DEBUG: mote 2: packet sent with timestamp 22.
+00:15.071	ID:4	DEBUG: mote 4: num of msg from mote 5 = 9 (tsp 21). [consecutive case] 
+00:15.079	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 22.
+00:15.080	ID:6	DEBUG: mote 6: timer fired.
+00:15.083	ID:1	DEBUG: mote 1: num of msg from mote 2 = 9 (tsp 22). [consecutive case] 
+00:15.084	ID:6	DEBUG: mote 6: packet sent with timestamp 22.
+00:15.178	ID:4	DEBUG: mote 4: timer fired.
+00:15.182	ID:4	DEBUG: mote 4: packet sent with timestamp 22.
+00:15.193	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 22.
+00:15.197	ID:5	DEBUG: mote 5: num of msg from mote 4 = 9 (tsp 22). [consecutive case] 
+00:15.212	ID:1	DEBUG: mote 1: timer fired.
+00:15.216	ID:1	DEBUG: mote 1: packet sent with timestamp 22.
+00:15.220	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 22.
+00:15.224	ID:2	DEBUG: mote 2: num of msg from mote 1 = 9 (tsp 22). [consecutive case] 
+00:15.231	ID:7	DEBUG: mote 7: timer fired.
+00:15.236	ID:7	DEBUG: mote 7: packet sent with timestamp 22.
+00:15.241	ID:3	DEBUG: mote 3: timer fired.
+00:15.244	ID:3	DEBUG: mote 3: packet sent with timestamp 21.
+00:15.545	ID:5	DEBUG: mote 5: timer fired.
+00:15.548	ID:5	DEBUG: mote 5: packet sent with timestamp 22.
+00:15.554	ID:2	DEBUG: mote 2: timer fired.
+00:15.558	ID:2	DEBUG: mote 2: packet sent with timestamp 23.
+00:15.561	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 22.
+00:15.565	ID:4	DEBUG: mote 4: num of msg from mote 5 = 10 (tsp 22). [consecutive case] 
+00:15.567	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 23.
+00:15.567	ID:4	ALERT FROM MOTE 4: I'm close to mote 5!
+00:15.569	ID:6	DEBUG: mote 6: timer fired.
+00:15.571	ID:1	DEBUG: mote 1: num of msg from mote 2 = 10 (tsp 23). [consecutive case] 
+00:15.572	ID:6	DEBUG: mote 6: packet sent with timestamp 23.
+00:15.573	ID:1	ALERT FROM MOTE 1: I'm close to mote 2!
+00:15.666	ID:4	DEBUG: mote 4: timer fired.
+00:15.670	ID:4	DEBUG: mote 4: packet sent with timestamp 23.
+00:15.676	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 23.
+00:15.680	ID:5	DEBUG: mote 5: num of msg from mote 4 = 10 (tsp 23). [consecutive case] 
+00:15.682	ID:5	ALERT FROM MOTE 5: I'm close to mote 4!
+00:15.700	ID:1	DEBUG: mote 1: timer fired.
+00:15.704	ID:1	DEBUG: mote 1: packet sent with timestamp 23.
+00:15.713	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 23.
+00:15.717	ID:2	DEBUG: mote 2: num of msg from mote 1 = 10 (tsp 23). [consecutive case] 
+00:15.719	ID:2	ALERT FROM MOTE 2: I'm close to mote 1!
+00:15.720	ID:7	DEBUG: mote 7: timer fired.
+00:15.723	ID:7	DEBUG: mote 7: packet sent with timestamp 23.
+00:15.729	ID:3	DEBUG: mote 3: timer fired.
+00:15.733	ID:3	DEBUG: mote 3: packet sent with timestamp 22.
+00:16.033	ID:5	DEBUG: mote 5: timer fired.
+00:16.037	ID:5	DEBUG: mote 5: packet sent with timestamp 23.
+00:16.042	ID:2	DEBUG: mote 2: timer fired.
+00:16.047	ID:2	DEBUG: mote 2: packet sent with timestamp 24.
+00:16.048	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 23.
+00:16.049	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 24.
+00:16.049	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 24.
+00:16.052	ID:4	DEBUG: mote 4: num of msg from mote 5 = 1 (tsp 23). [reset case] 
+00:16.053	ID:1	DEBUG: mote 1: num of msg from mote 2 = 1 (tsp 24). [reset case] 
+00:16.053	ID:3	DEBUG: mote 3: num of msg from mote 2 = 1 (tsp 24). [non-consecutive case] 
+00:16.057	ID:6	DEBUG: mote 6: timer fired.
+00:16.060	ID:6	DEBUG: mote 6: packet sent with timestamp 24.
+00:16.155	ID:4	DEBUG: mote 4: timer fired.
+00:16.159	ID:4	DEBUG: mote 4: packet sent with timestamp 24.
+00:16.164	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 24.
+00:16.167	ID:5	DEBUG: mote 5: num of msg from mote 4 = 1 (tsp 24). [reset case] 
+00:16.188	ID:1	DEBUG: mote 1: timer fired.
+00:16.192	ID:1	DEBUG: mote 1: packet sent with timestamp 24.
+00:16.197	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 24.
+00:16.197	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 24.
+00:16.201	ID:2	DEBUG: mote 2: num of msg from mote 1 = 1 (tsp 24). [reset case] 
+00:16.201	ID:3	DEBUG: mote 3: num of msg from mote 1 = 1 (tsp 24). [non-consecutive case] 
+00:16.208	ID:7	DEBUG: mote 7: timer fired.
+00:16.211	ID:7	DEBUG: mote 7: packet sent with timestamp 24.
+00:16.217	ID:3	DEBUG: mote 3: timer fired.
+00:16.221	ID:3	DEBUG: mote 3: packet sent with timestamp 23.
+00:16.227	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 23.
+00:16.227	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 23.
+00:16.231	ID:1	DEBUG: mote 1: num of msg from mote 3 = 1 (tsp 23). [non-consecutive case] 
+00:16.231	ID:2	DEBUG: mote 2: num of msg from mote 3 = 1 (tsp 23). [non-consecutive case] 
+00:16.521	ID:5	DEBUG: mote 5: timer fired.
+00:16.525	ID:5	DEBUG: mote 5: packet sent with timestamp 24.
+00:16.531	ID:2	DEBUG: mote 2: timer fired.
+00:16.534	ID:2	DEBUG: mote 2: packet sent with timestamp 25.
+00:16.534	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 24.
+00:16.538	ID:4	DEBUG: mote 4: num of msg from mote 5 = 2 (tsp 24). [consecutive case] 
+00:16.545	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 25.
+00:16.545	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 25.
+00:16.545	ID:6	DEBUG: mote 6: timer fired.
+00:16.548	ID:1	DEBUG: mote 1: num of msg from mote 2 = 2 (tsp 25). [consecutive case] 
+00:16.548	ID:3	DEBUG: mote 3: num of msg from mote 2 = 2 (tsp 25). [consecutive case] 
+00:16.549	ID:6	DEBUG: mote 6: packet sent with timestamp 25.
+00:16.643	ID:4	DEBUG: mote 4: timer fired.
+00:16.646	ID:4	DEBUG: mote 4: packet sent with timestamp 25.
+00:16.658	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 25.
+00:16.662	ID:5	DEBUG: mote 5: num of msg from mote 4 = 2 (tsp 25). [consecutive case] 
+00:16.677	ID:1	DEBUG: mote 1: timer fired.
+00:16.681	ID:1	DEBUG: mote 1: packet sent with timestamp 25.
+00:16.685	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 25.
+00:16.685	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 25.
+00:16.689	ID:2	DEBUG: mote 2: num of msg from mote 1 = 2 (tsp 25). [consecutive case] 
+00:16.689	ID:3	DEBUG: mote 3: num of msg from mote 1 = 2 (tsp 25). [consecutive case] 
+00:16.696	ID:7	DEBUG: mote 7: timer fired.
+00:16.700	ID:7	DEBUG: mote 7: packet sent with timestamp 25.
+00:16.706	ID:3	DEBUG: mote 3: timer fired.
+00:16.709	ID:3	DEBUG: mote 3: packet sent with timestamp 24.
+00:16.716	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 24.
+00:16.716	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 24.
+00:16.720	ID:2	DEBUG: mote 2: num of msg from mote 3 = 2 (tsp 24). [consecutive case] 
+00:16.720	ID:1	DEBUG: mote 1: num of msg from mote 3 = 2 (tsp 24). [consecutive case] 
+00:17.010	ID:5	DEBUG: mote 5: timer fired.
+00:17.014	ID:5	DEBUG: mote 5: packet sent with timestamp 25.
+00:17.017	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 25.
+00:17.019	ID:2	DEBUG: mote 2: timer fired.
+00:17.021	ID:4	DEBUG: mote 4: num of msg from mote 5 = 3 (tsp 25). [consecutive case] 
+00:17.022	ID:2	DEBUG: mote 2: packet sent with timestamp 26.
+00:17.032	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 26.
+00:17.032	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 26.
+00:17.033	ID:6	DEBUG: mote 6: timer fired.
+00:17.036	ID:1	DEBUG: mote 1: num of msg from mote 2 = 3 (tsp 26). [consecutive case] 
+00:17.036	ID:3	DEBUG: mote 3: num of msg from mote 2 = 3 (tsp 26). [consecutive case] 
+00:17.037	ID:6	DEBUG: mote 6: packet sent with timestamp 26.
+00:17.131	ID:4	DEBUG: mote 4: timer fired.
+00:17.135	ID:4	DEBUG: mote 4: packet sent with timestamp 26.
+00:17.141	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 26.
+00:17.145	ID:5	DEBUG: mote 5: num of msg from mote 4 = 3 (tsp 26). [consecutive case] 
+00:17.165	ID:1	DEBUG: mote 1: timer fired.
+00:17.169	ID:1	DEBUG: mote 1: packet sent with timestamp 26.
+00:17.172	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 26.
+00:17.172	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 26.
+00:17.176	ID:3	DEBUG: mote 3: num of msg from mote 1 = 3 (tsp 26). [consecutive case] 
+00:17.176	ID:2	DEBUG: mote 2: num of msg from mote 1 = 3 (tsp 26). [consecutive case] 
+00:17.185	ID:7	DEBUG: mote 7: timer fired.
+00:17.188	ID:7	DEBUG: mote 7: packet sent with timestamp 26.
+00:17.194	ID:3	DEBUG: mote 3: timer fired.
+00:17.197	ID:3	DEBUG: mote 3: packet sent with timestamp 25.
+00:17.204	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 25.
+00:17.204	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 25.
+00:17.208	ID:1	DEBUG: mote 1: num of msg from mote 3 = 3 (tsp 25). [consecutive case] 
+00:17.208	ID:2	DEBUG: mote 2: num of msg from mote 3 = 3 (tsp 25). [consecutive case] 
+00:17.498	ID:5	DEBUG: mote 5: timer fired.
+00:17.501	ID:5	DEBUG: mote 5: packet sent with timestamp 26.
+00:17.507	ID:2	DEBUG: mote 2: timer fired.
+00:17.508	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 26.
+00:17.511	ID:2	DEBUG: mote 2: packet sent with timestamp 27.
+00:17.512	ID:4	DEBUG: mote 4: num of msg from mote 5 = 4 (tsp 26). [consecutive case] 
+00:17.516	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 27.
+00:17.516	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 27.
+00:17.520	ID:1	DEBUG: mote 1: num of msg from mote 2 = 4 (tsp 27). [consecutive case] 
+00:17.520	ID:3	DEBUG: mote 3: num of msg from mote 2 = 4 (tsp 27). [consecutive case] 
+00:17.522	ID:6	DEBUG: mote 6: timer fired.
+00:17.525	ID:6	DEBUG: mote 6: packet sent with timestamp 27.
+00:17.619	ID:4	DEBUG: mote 4: timer fired.
+00:17.623	ID:4	DEBUG: mote 4: packet sent with timestamp 27.
+00:17.632	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 27.
+00:17.636	ID:5	DEBUG: mote 5: num of msg from mote 4 = 4 (tsp 27). [consecutive case] 
+00:17.653	ID:1	DEBUG: mote 1: timer fired.
+00:17.657	ID:1	DEBUG: mote 1: packet sent with timestamp 27.
+00:17.664	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 27.
+00:17.664	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 27.
+00:17.667	ID:2	DEBUG: mote 2: num of msg from mote 1 = 4 (tsp 27). [consecutive case] 
+00:17.667	ID:3	DEBUG: mote 3: num of msg from mote 1 = 4 (tsp 27). [consecutive case] 
+00:17.673	ID:7	DEBUG: mote 7: timer fired.
+00:17.676	ID:7	DEBUG: mote 7: packet sent with timestamp 27.
+00:17.682	ID:3	DEBUG: mote 3: timer fired.
+00:17.686	ID:3	DEBUG: mote 3: packet sent with timestamp 26.
+00:17.696	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 26.
+00:17.696	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 26.
+00:17.700	ID:2	DEBUG: mote 2: num of msg from mote 3 = 4 (tsp 26). [consecutive case] 
+00:17.700	ID:1	DEBUG: mote 1: num of msg from mote 3 = 4 (tsp 26). [consecutive case] 
+00:17.986	ID:5	DEBUG: mote 5: timer fired.
+00:17.990	ID:5	DEBUG: mote 5: packet sent with timestamp 27.
+00:17.993	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 27.
+00:17.996	ID:2	DEBUG: mote 2: timer fired.
+00:17.997	ID:4	DEBUG: mote 4: num of msg from mote 5 = 5 (tsp 27). [consecutive case] 
+00:17.999	ID:2	DEBUG: mote 2: packet sent with timestamp 28.
+00:18.008	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 28.
+00:18.008	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 28.
+00:18.010	ID:6	DEBUG: mote 6: timer fired.
+00:18.012	ID:1	DEBUG: mote 1: num of msg from mote 2 = 5 (tsp 28). [consecutive case] 
+00:18.012	ID:3	DEBUG: mote 3: num of msg from mote 2 = 5 (tsp 28). [consecutive case] 
+00:18.013	ID:6	DEBUG: mote 6: packet sent with timestamp 28.
+00:18.108	ID:4	DEBUG: mote 4: timer fired.
+00:18.111	ID:4	DEBUG: mote 4: packet sent with timestamp 28.
+00:18.119	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 28.
+00:18.123	ID:5	DEBUG: mote 5: num of msg from mote 4 = 5 (tsp 28). [consecutive case] 
+00:18.142	ID:1	DEBUG: mote 1: timer fired.
+00:18.145	ID:1	DEBUG: mote 1: packet sent with timestamp 28.
+00:18.151	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 28.
+00:18.151	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 28.
+00:18.155	ID:2	DEBUG: mote 2: num of msg from mote 1 = 5 (tsp 28). [consecutive case] 
+00:18.155	ID:3	DEBUG: mote 3: num of msg from mote 1 = 5 (tsp 28). [consecutive case] 
+00:18.161	ID:7	DEBUG: mote 7: timer fired.
+00:18.165	ID:7	DEBUG: mote 7: packet sent with timestamp 28.
+00:18.170	ID:3	DEBUG: mote 3: timer fired.
+00:18.174	ID:3	DEBUG: mote 3: packet sent with timestamp 27.
+00:18.184	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 27.
+00:18.184	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 27.
+00:18.188	ID:2	DEBUG: mote 2: num of msg from mote 3 = 5 (tsp 27). [consecutive case] 
+00:18.188	ID:1	DEBUG: mote 1: num of msg from mote 3 = 5 (tsp 27). [consecutive case] 
+00:18.475	ID:5	DEBUG: mote 5: timer fired.
+00:18.478	ID:5	DEBUG: mote 5: packet sent with timestamp 28.
+00:18.484	ID:2	DEBUG: mote 2: timer fired.
+00:18.487	ID:2	DEBUG: mote 2: packet sent with timestamp 29.
+00:18.489	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 28.
+00:18.493	ID:4	DEBUG: mote 4: num of msg from mote 5 = 6 (tsp 28). [consecutive case] 
+00:18.498	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 29.
+00:18.498	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 29.
+00:18.498	ID:6	DEBUG: mote 6: timer fired.
+00:18.501	ID:1	DEBUG: mote 1: num of msg from mote 2 = 6 (tsp 29). [consecutive case] 
+00:18.502	ID:3	DEBUG: mote 3: num of msg from mote 2 = 6 (tsp 29). [consecutive case] 
+00:18.502	ID:6	DEBUG: mote 6: packet sent with timestamp 29.
+00:18.596	ID:4	DEBUG: mote 4: timer fired.
+00:18.599	ID:4	DEBUG: mote 4: packet sent with timestamp 29.
+00:18.610	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 29.
+00:18.614	ID:5	DEBUG: mote 5: num of msg from mote 4 = 6 (tsp 29). [consecutive case] 
+00:18.630	ID:1	DEBUG: mote 1: timer fired.
+00:18.633	ID:1	DEBUG: mote 1: packet sent with timestamp 29.
+00:18.641	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 29.
+00:18.641	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 29.
+00:18.645	ID:3	DEBUG: mote 3: num of msg from mote 1 = 6 (tsp 29). [consecutive case] 
+00:18.645	ID:2	DEBUG: mote 2: num of msg from mote 1 = 6 (tsp 29). [consecutive case] 
+00:18.649	ID:7	DEBUG: mote 7: timer fired.
+00:18.653	ID:7	DEBUG: mote 7: packet sent with timestamp 29.
+00:18.659	ID:3	DEBUG: mote 3: timer fired.
+00:18.662	ID:3	DEBUG: mote 3: packet sent with timestamp 28.
+00:18.671	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 28.
+00:18.671	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 28.
+00:18.675	ID:1	DEBUG: mote 1: num of msg from mote 3 = 6 (tsp 28). [consecutive case] 
+00:18.675	ID:2	DEBUG: mote 2: num of msg from mote 3 = 6 (tsp 28). [consecutive case] 
+00:18.963	ID:5	DEBUG: mote 5: timer fired.
+00:18.966	ID:5	DEBUG: mote 5: packet sent with timestamp 29.
+00:18.972	ID:2	DEBUG: mote 2: timer fired.
+00:18.974	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 29.
+00:18.976	ID:2	DEBUG: mote 2: packet sent with timestamp 30.
+00:18.978	ID:4	DEBUG: mote 4: num of msg from mote 5 = 7 (tsp 29). [consecutive case] 
+00:18.985	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 30.
+00:18.985	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 30.
+00:18.987	ID:6	DEBUG: mote 6: timer fired.
+00:18.989	ID:1	DEBUG: mote 1: num of msg from mote 2 = 7 (tsp 30). [consecutive case] 
+00:18.989	ID:3	DEBUG: mote 3: num of msg from mote 2 = 7 (tsp 30). [consecutive case] 
+00:18.991	ID:6	DEBUG: mote 6: packet sent with timestamp 30.
+00:19.084	ID:4	DEBUG: mote 4: timer fired.
+00:19.088	ID:4	DEBUG: mote 4: packet sent with timestamp 30.
+00:19.093	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 30.
+00:19.097	ID:5	DEBUG: mote 5: num of msg from mote 4 = 7 (tsp 30). [consecutive case] 
+00:19.118	ID:1	DEBUG: mote 1: timer fired.
+00:19.122	ID:1	DEBUG: mote 1: packet sent with timestamp 30.
+00:19.134	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 30.
+00:19.134	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 30.
+00:19.138	ID:7	DEBUG: mote 7: timer fired.
+00:19.138	ID:2	DEBUG: mote 2: num of msg from mote 1 = 7 (tsp 30). [consecutive case] 
+00:19.138	ID:3	DEBUG: mote 3: num of msg from mote 1 = 7 (tsp 30). [consecutive case] 
+00:19.141	ID:7	DEBUG: mote 7: packet sent with timestamp 30.
+00:19.147	ID:3	DEBUG: mote 3: timer fired.
+00:19.150	ID:3	DEBUG: mote 3: packet sent with timestamp 29.
+00:19.158	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 29.
+00:19.158	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 29.
+00:19.162	ID:1	DEBUG: mote 1: num of msg from mote 3 = 7 (tsp 29). [consecutive case] 
+00:19.162	ID:2	DEBUG: mote 2: num of msg from mote 3 = 7 (tsp 29). [consecutive case] 
+00:19.451	ID:5	DEBUG: mote 5: timer fired.
+00:19.455	ID:5	DEBUG: mote 5: packet sent with timestamp 30.
+00:19.460	ID:2	DEBUG: mote 2: timer fired.
+00:19.464	ID:2	DEBUG: mote 2: packet sent with timestamp 31.
+00:19.466	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 30.
+00:19.470	ID:4	DEBUG: mote 4: num of msg from mote 5 = 8 (tsp 30). [consecutive case] 
+00:19.475	ID:6	DEBUG: mote 6: timer fired.
+00:19.475	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 31.
+00:19.475	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 31.
+00:19.478	ID:6	DEBUG: mote 6: packet sent with timestamp 31.
+00:19.479	ID:1	DEBUG: mote 1: num of msg from mote 2 = 8 (tsp 31). [consecutive case] 
+00:19.479	ID:3	DEBUG: mote 3: num of msg from mote 2 = 8 (tsp 31). [consecutive case] 
+00:19.573	ID:4	DEBUG: mote 4: timer fired.
+00:19.576	ID:4	DEBUG: mote 4: packet sent with timestamp 31.
+00:19.589	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 31.
+00:19.593	ID:5	DEBUG: mote 5: num of msg from mote 4 = 8 (tsp 31). [consecutive case] 
+00:19.606	ID:1	DEBUG: mote 1: timer fired.
+00:19.611	ID:1	DEBUG: mote 1: packet sent with timestamp 31.
+00:19.615	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 31.
+00:19.615	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 31.
+00:19.619	ID:2	DEBUG: mote 2: num of msg from mote 1 = 8 (tsp 31). [consecutive case] 
+00:19.619	ID:3	DEBUG: mote 3: num of msg from mote 1 = 8 (tsp 31). [consecutive case] 
+00:19.626	ID:7	DEBUG: mote 7: timer fired.
+00:19.629	ID:7	DEBUG: mote 7: packet sent with timestamp 31.
+00:19.635	ID:3	DEBUG: mote 3: timer fired.
+00:19.639	ID:3	DEBUG: mote 3: packet sent with timestamp 30.
+00:19.651	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 30.
+00:19.651	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 30.
+00:19.655	ID:2	DEBUG: mote 2: num of msg from mote 3 = 8 (tsp 30). [consecutive case] 
+00:19.655	ID:1	DEBUG: mote 1: num of msg from mote 3 = 8 (tsp 30). [consecutive case] 
+00:19.939	ID:5	DEBUG: mote 5: timer fired.
+00:19.943	ID:5	DEBUG: mote 5: packet sent with timestamp 31.
+00:19.949	ID:2	DEBUG: mote 2: timer fired.
+00:19.952	ID:2	DEBUG: mote 2: packet sent with timestamp 32.
+00:19.952	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 31.
+00:19.956	ID:4	DEBUG: mote 4: num of msg from mote 5 = 9 (tsp 31). [consecutive case] 
+00:19.961	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 32.
+00:19.961	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 32.
+00:19.963	ID:6	DEBUG: mote 6: timer fired.
+00:19.965	ID:1	DEBUG: mote 1: num of msg from mote 2 = 9 (tsp 32). [consecutive case] 
+00:19.965	ID:3	DEBUG: mote 3: num of msg from mote 2 = 9 (tsp 32). [consecutive case] 
+00:19.967	ID:6	DEBUG: mote 6: packet sent with timestamp 32.
+00:20.061	ID:4	DEBUG: mote 4: timer fired.
+00:20.064	ID:4	DEBUG: mote 4: packet sent with timestamp 32.
+00:20.071	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 32.
+00:20.075	ID:5	DEBUG: mote 5: num of msg from mote 4 = 9 (tsp 32). [consecutive case] 
+00:20.095	ID:1	DEBUG: mote 1: timer fired.
+00:20.098	ID:1	DEBUG: mote 1: packet sent with timestamp 32.
+00:20.110	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 32.
+00:20.110	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 32.
+00:20.113	ID:3	DEBUG: mote 3: num of msg from mote 1 = 9 (tsp 32). [consecutive case] 
+00:20.113	ID:2	DEBUG: mote 2: num of msg from mote 1 = 9 (tsp 32). [consecutive case] 
+00:20.114	ID:7	DEBUG: mote 7: timer fired.
+00:20.118	ID:7	DEBUG: mote 7: packet sent with timestamp 32.
+00:20.124	ID:3	DEBUG: mote 3: timer fired.
+00:20.127	ID:3	DEBUG: mote 3: packet sent with timestamp 31.
+00:20.139	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 31.
+00:20.139	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 31.
+00:20.143	ID:1	DEBUG: mote 1: num of msg from mote 3 = 9 (tsp 31). [consecutive case] 
+00:20.143	ID:2	DEBUG: mote 2: num of msg from mote 3 = 9 (tsp 31). [consecutive case] 
+00:20.428	ID:5	DEBUG: mote 5: timer fired.
+00:20.432	ID:5	DEBUG: mote 5: packet sent with timestamp 32.
+00:20.435	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 32.
+00:20.437	ID:2	DEBUG: mote 2: timer fired.
+00:20.439	ID:4	DEBUG: mote 4: num of msg from mote 5 = 10 (tsp 32). [consecutive case] 
+00:20.440	ID:2	DEBUG: mote 2: packet sent with timestamp 33.
+00:20.441	ID:4	ALERT FROM MOTE 4: I'm close to mote 5!
+00:20.451	ID:6	DEBUG: mote 6: timer fired.
+00:20.452	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 33.
+00:20.452	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 33.
+00:20.455	ID:6	DEBUG: mote 6: packet sent with timestamp 33.
+00:20.456	ID:1	DEBUG: mote 1: num of msg from mote 2 = 10 (tsp 33). [consecutive case] 
+00:20.456	ID:3	DEBUG: mote 3: num of msg from mote 2 = 10 (tsp 33). [consecutive case] 
+00:20.458	ID:1	ALERT FROM MOTE 1: I'm close to mote 2!
+00:20.458	ID:3	ALERT FROM MOTE 3: I'm close to mote 2!
+00:20.549	ID:4	DEBUG: mote 4: timer fired.
+00:20.553	ID:4	DEBUG: mote 4: packet sent with timestamp 33.
+00:20.557	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 33.
+00:20.561	ID:5	DEBUG: mote 5: num of msg from mote 4 = 10 (tsp 33). [consecutive case] 
+00:20.563	ID:5	ALERT FROM MOTE 5: I'm close to mote 4!
+00:20.583	ID:1	DEBUG: mote 1: timer fired.
+00:20.586	ID:1	DEBUG: mote 1: packet sent with timestamp 33.
+00:20.592	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 33.
+00:20.592	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 33.
+00:20.596	ID:3	DEBUG: mote 3: num of msg from mote 1 = 10 (tsp 33). [consecutive case] 
+00:20.596	ID:2	DEBUG: mote 2: num of msg from mote 1 = 10 (tsp 33). [consecutive case] 
+00:20.598	ID:3	ALERT FROM MOTE 3: I'm close to mote 1!
+00:20.598	ID:2	ALERT FROM MOTE 2: I'm close to mote 1!
+00:20.603	ID:7	DEBUG: mote 7: timer fired.
+00:20.606	ID:7	DEBUG: mote 7: packet sent with timestamp 33.
+00:20.612	ID:3	DEBUG: mote 3: timer fired.
+00:20.615	ID:3	DEBUG: mote 3: packet sent with timestamp 32.
+00:20.625	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 32.
+00:20.625	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 32.
+00:20.629	ID:1	DEBUG: mote 1: num of msg from mote 3 = 10 (tsp 32). [consecutive case] 
+00:20.629	ID:2	DEBUG: mote 2: num of msg from mote 3 = 10 (tsp 32). [consecutive case] 
+00:20.631	ID:2	ALERT FROM MOTE 2: I'm close to mote 3!
+00:20.631	ID:1	ALERT FROM MOTE 1: I'm close to mote 3!
+00:20.916	ID:5	DEBUG: mote 5: timer fired.
+00:20.919	ID:5	DEBUG: mote 5: packet sent with timestamp 33.
+00:20.925	ID:2	DEBUG: mote 2: timer fired.
+00:20.929	ID:2	DEBUG: mote 2: packet sent with timestamp 34.
+00:20.930	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 33.
+00:20.933	ID:4	DEBUG: mote 4: num of msg from mote 5 = 1 (tsp 33). [reset case] 
+00:20.934	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 34.
+00:20.934	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 34.
+00:20.934	ID:6	DEBUG: mote 6: packet received from mote 2 with timestamp 34.
+00:20.937	ID:1	DEBUG: mote 1: num of msg from mote 2 = 1 (tsp 34). [reset case] 
+00:20.937	ID:3	DEBUG: mote 3: num of msg from mote 2 = 1 (tsp 34). [reset case] 
+00:20.937	ID:6	DEBUG: mote 6: num of msg from mote 2 = 1 (tsp 34). [reset case] 
+00:20.940	ID:6	DEBUG: mote 6: timer fired.
+00:20.943	ID:6	DEBUG: mote 6: packet sent with timestamp 34.
+00:20.952	ID:2	DEBUG: mote 2: packet received from mote 6 with timestamp 34.
+00:20.956	ID:2	DEBUG: mote 2: num of msg from mote 6 = 1 (tsp 34). [reset case] 
+00:21.037	ID:4	DEBUG: mote 4: timer fired.
+00:21.041	ID:4	DEBUG: mote 4: packet sent with timestamp 34.
+00:21.053	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 34.
+00:21.056	ID:5	DEBUG: mote 5: num of msg from mote 4 = 1 (tsp 34). [reset case] 
+00:21.071	ID:1	DEBUG: mote 1: timer fired.
+00:21.075	ID:1	DEBUG: mote 1: packet sent with timestamp 34.
+00:21.079	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 34.
+00:21.079	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 34.
+00:21.083	ID:3	DEBUG: mote 3: num of msg from mote 1 = 1 (tsp 34). [reset case] 
+00:21.083	ID:2	DEBUG: mote 2: num of msg from mote 1 = 1 (tsp 34). [reset case] 
+00:21.091	ID:7	DEBUG: mote 7: timer fired.
+00:21.094	ID:7	DEBUG: mote 7: packet sent with timestamp 34.
+00:21.100	ID:3	DEBUG: mote 3: timer fired.
+00:21.104	ID:3	DEBUG: mote 3: packet sent with timestamp 33.
+00:21.112	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 33.
+00:21.112	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 33.
+00:21.115	ID:1	DEBUG: mote 1: num of msg from mote 3 = 1 (tsp 33). [reset case] 
+00:21.115	ID:2	DEBUG: mote 2: num of msg from mote 3 = 1 (tsp 33). [reset case] 
+00:21.404	ID:5	DEBUG: mote 5: timer fired.
+00:21.408	ID:5	DEBUG: mote 5: packet sent with timestamp 34.
+00:21.413	ID:2	DEBUG: mote 2: timer fired.
+00:21.417	ID:2	DEBUG: mote 2: packet sent with timestamp 35.
+00:21.420	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 34.
+00:21.424	ID:4	DEBUG: mote 4: num of msg from mote 5 = 2 (tsp 34). [consecutive case] 
+00:21.428	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 35.
+00:21.428	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 35.
+00:21.428	ID:6	DEBUG: mote 6: packet received from mote 2 with timestamp 35.
+00:21.432	ID:1	DEBUG: mote 1: num of msg from mote 2 = 2 (tsp 35). [consecutive case] 
+00:21.432	ID:3	DEBUG: mote 3: num of msg from mote 2 = 2 (tsp 35). [consecutive case] 
+00:21.432	ID:6	DEBUG: mote 6: num of msg from mote 2 = 2 (tsp 35). [consecutive case] 
+00:21.433	ID:6	DEBUG: mote 6: timer fired.
+00:21.437	ID:6	DEBUG: mote 6: packet sent with timestamp 35.
+00:21.446	ID:2	DEBUG: mote 2: packet received from mote 6 with timestamp 35.
+00:21.449	ID:2	DEBUG: mote 2: num of msg from mote 6 = 2 (tsp 35). [consecutive case] 
+00:21.526	ID:4	DEBUG: mote 4: timer fired.
+00:21.529	ID:4	DEBUG: mote 4: packet sent with timestamp 35.
+00:21.539	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 35.
+00:21.543	ID:5	DEBUG: mote 5: num of msg from mote 4 = 2 (tsp 35). [consecutive case] 
+00:21.560	ID:1	DEBUG: mote 1: timer fired.
+00:21.563	ID:1	DEBUG: mote 1: packet sent with timestamp 35.
+00:21.569	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 35.
+00:21.569	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 35.
+00:21.573	ID:2	DEBUG: mote 2: num of msg from mote 1 = 2 (tsp 35). [consecutive case] 
+00:21.573	ID:3	DEBUG: mote 3: num of msg from mote 1 = 2 (tsp 35). [consecutive case] 
+00:21.579	ID:7	DEBUG: mote 7: timer fired.
+00:21.583	ID:7	DEBUG: mote 7: packet sent with timestamp 35.
+00:21.588	ID:3	DEBUG: mote 3: timer fired.
+00:21.592	ID:3	DEBUG: mote 3: packet sent with timestamp 34.
+00:21.603	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 34.
+00:21.603	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 34.
+00:21.607	ID:1	DEBUG: mote 1: num of msg from mote 3 = 2 (tsp 34). [consecutive case] 
+00:21.607	ID:2	DEBUG: mote 2: num of msg from mote 3 = 2 (tsp 34). [consecutive case] 
+00:21.892	ID:5	DEBUG: mote 5: timer fired.
+00:21.897	ID:5	DEBUG: mote 5: packet sent with timestamp 35.
+00:21.901	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 35.
+00:21.902	ID:2	DEBUG: mote 2: timer fired.
+00:21.905	ID:4	DEBUG: mote 4: num of msg from mote 5 = 3 (tsp 35). [consecutive case] 
+00:21.905	ID:2	DEBUG: mote 2: packet sent with timestamp 36.
+00:21.917	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 36.
+00:21.917	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 36.
+00:21.917	ID:6	DEBUG: mote 6: packet received from mote 2 with timestamp 36.
+00:21.921	ID:1	DEBUG: mote 1: num of msg from mote 2 = 3 (tsp 36). [consecutive case] 
+00:21.921	ID:3	DEBUG: mote 3: num of msg from mote 2 = 3 (tsp 36). [consecutive case] 
+00:21.921	ID:6	DEBUG: mote 6: num of msg from mote 2 = 3 (tsp 36). [consecutive case] 
+00:21.923	ID:6	DEBUG: mote 6: timer fired.
+00:21.926	ID:6	DEBUG: mote 6: packet sent with timestamp 36.
+00:21.933	ID:2	DEBUG: mote 2: packet received from mote 6 with timestamp 36.
+00:21.937	ID:2	DEBUG: mote 2: num of msg from mote 6 = 3 (tsp 36). [consecutive case] 
+00:22.014	ID:4	DEBUG: mote 4: timer fired.
+00:22.017	ID:4	DEBUG: mote 4: packet sent with timestamp 36.
+00:22.024	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 36.
+00:22.028	ID:5	DEBUG: mote 5: num of msg from mote 4 = 3 (tsp 36). [consecutive case] 
+00:22.048	ID:1	DEBUG: mote 1: timer fired.
+00:22.051	ID:1	DEBUG: mote 1: packet sent with timestamp 36.
+00:22.059	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 36.
+00:22.059	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 36.
+00:22.063	ID:3	DEBUG: mote 3: num of msg from mote 1 = 3 (tsp 36). [consecutive case] 
+00:22.063	ID:2	DEBUG: mote 2: num of msg from mote 1 = 3 (tsp 36). [consecutive case] 
+00:22.067	ID:7	DEBUG: mote 7: timer fired.
+00:22.071	ID:7	DEBUG: mote 7: packet sent with timestamp 36.
+00:22.077	ID:3	DEBUG: mote 3: timer fired.
+00:22.080	ID:3	DEBUG: mote 3: packet sent with timestamp 35.
+00:22.086	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 35.
+00:22.086	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 35.
+00:22.090	ID:1	DEBUG: mote 1: num of msg from mote 3 = 3 (tsp 35). [consecutive case] 
+00:22.090	ID:2	DEBUG: mote 2: num of msg from mote 3 = 3 (tsp 35). [consecutive case] 
+00:22.381	ID:5	DEBUG: mote 5: timer fired.
+00:22.384	ID:5	DEBUG: mote 5: packet sent with timestamp 36.
+00:22.390	ID:2	DEBUG: mote 2: timer fired.
+00:22.391	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 36.
+00:22.393	ID:2	DEBUG: mote 2: packet sent with timestamp 37.
+00:22.395	ID:4	DEBUG: mote 4: num of msg from mote 5 = 4 (tsp 36). [consecutive case] 
+00:22.403	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 37.
+00:22.403	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 37.
+00:22.403	ID:6	DEBUG: mote 6: packet received from mote 2 with timestamp 37.
+00:22.407	ID:1	DEBUG: mote 1: num of msg from mote 2 = 4 (tsp 37). [consecutive case] 
+00:22.407	ID:3	DEBUG: mote 3: num of msg from mote 2 = 4 (tsp 37). [consecutive case] 
+00:22.407	ID:6	DEBUG: mote 6: num of msg from mote 2 = 4 (tsp 37). [consecutive case] 
+00:22.408	ID:6	DEBUG: mote 6: timer fired.
+00:22.413	ID:6	DEBUG: mote 6: packet sent with timestamp 37.
+00:22.416	ID:2	DEBUG: mote 2: packet received from mote 6 with timestamp 37.
+00:22.419	ID:2	DEBUG: mote 2: num of msg from mote 6 = 4 (tsp 37). [consecutive case] 
+00:22.502	ID:4	DEBUG: mote 4: timer fired.
+00:22.506	ID:4	DEBUG: mote 4: packet sent with timestamp 37.
+00:22.512	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 37.
+00:22.516	ID:5	DEBUG: mote 5: num of msg from mote 4 = 4 (tsp 37). [consecutive case] 
+00:22.536	ID:1	DEBUG: mote 1: timer fired.
+00:22.540	ID:1	DEBUG: mote 1: packet sent with timestamp 37.
+00:22.544	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 37.
+00:22.544	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 37.
+00:22.548	ID:3	DEBUG: mote 3: num of msg from mote 1 = 4 (tsp 37). [consecutive case] 
+00:22.548	ID:2	DEBUG: mote 2: num of msg from mote 1 = 4 (tsp 37). [consecutive case] 
+00:22.556	ID:7	DEBUG: mote 7: timer fired.
+00:22.559	ID:7	DEBUG: mote 7: packet sent with timestamp 37.
+00:22.565	ID:3	DEBUG: mote 3: timer fired.
+00:22.568	ID:3	DEBUG: mote 3: packet sent with timestamp 36.
+00:22.581	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 36.
+00:22.581	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 36.
+00:22.584	ID:2	DEBUG: mote 2: num of msg from mote 3 = 4 (tsp 36). [consecutive case] 
+00:22.584	ID:1	DEBUG: mote 1: num of msg from mote 3 = 4 (tsp 36). [consecutive case] 
+00:22.869	ID:5	DEBUG: mote 5: timer fired.
+00:22.872	ID:5	DEBUG: mote 5: packet sent with timestamp 37.
+00:22.878	ID:2	DEBUG: mote 2: timer fired.
+00:22.882	ID:2	DEBUG: mote 2: packet sent with timestamp 38.
+00:22.884	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 37.
+00:22.888	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 38.
+00:22.888	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 38.
+00:22.888	ID:6	DEBUG: mote 6: packet received from mote 2 with timestamp 38.
+00:22.888	ID:4	DEBUG: mote 4: num of msg from mote 5 = 5 (tsp 37). [consecutive case] 
+00:22.892	ID:1	DEBUG: mote 1: num of msg from mote 2 = 5 (tsp 38). [consecutive case] 
+00:22.892	ID:3	DEBUG: mote 3: num of msg from mote 2 = 5 (tsp 38). [consecutive case] 
+00:22.892	ID:6	DEBUG: mote 6: num of msg from mote 2 = 5 (tsp 38). [consecutive case] 
+00:22.894	ID:6	DEBUG: mote 6: timer fired.
+00:22.898	ID:6	DEBUG: mote 6: packet sent with timestamp 38.
+00:22.901	ID:2	DEBUG: mote 2: packet received from mote 6 with timestamp 38.
+00:22.905	ID:2	DEBUG: mote 2: num of msg from mote 6 = 5 (tsp 38). [consecutive case] 
+00:22.991	ID:4	DEBUG: mote 4: timer fired.
+00:22.995	ID:4	DEBUG: mote 4: packet sent with timestamp 38.
+00:22.999	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 38.
+00:23.003	ID:5	DEBUG: mote 5: num of msg from mote 4 = 5 (tsp 38). [consecutive case] 
+00:23.024	ID:1	DEBUG: mote 1: timer fired.
+00:23.028	ID:1	DEBUG: mote 1: packet sent with timestamp 38.
+00:23.040	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 38.
+00:23.040	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 38.
+00:23.043	ID:2	DEBUG: mote 2: num of msg from mote 1 = 5 (tsp 38). [consecutive case] 
+00:23.043	ID:3	DEBUG: mote 3: num of msg from mote 1 = 5 (tsp 38). [consecutive case] 
+00:23.044	ID:7	DEBUG: mote 7: timer fired.
+00:23.047	ID:7	DEBUG: mote 7: packet sent with timestamp 38.
+00:23.053	ID:3	DEBUG: mote 3: timer fired.
+00:23.057	ID:3	DEBUG: mote 3: packet sent with timestamp 37.
+00:23.068	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 37.
+00:23.068	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 37.
+00:23.071	ID:2	DEBUG: mote 2: num of msg from mote 3 = 5 (tsp 37). [consecutive case] 
+00:23.071	ID:1	DEBUG: mote 1: num of msg from mote 3 = 5 (tsp 37). [consecutive case] 
+00:23.357	ID:5	DEBUG: mote 5: timer fired.
+00:23.361	ID:5	DEBUG: mote 5: packet sent with timestamp 38.
+00:23.367	ID:2	DEBUG: mote 2: timer fired.
+00:23.370	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 38.
+00:23.370	ID:2	DEBUG: mote 2: packet sent with timestamp 39.
+00:23.374	ID:4	DEBUG: mote 4: num of msg from mote 5 = 6 (tsp 38). [consecutive case] 
+00:23.379	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 39.
+00:23.379	ID:6	DEBUG: mote 6: packet received from mote 2 with timestamp 39.
+00:23.379	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 39.
+00:23.383	ID:1	DEBUG: mote 1: num of msg from mote 2 = 6 (tsp 39). [consecutive case] 
+00:23.383	ID:3	DEBUG: mote 3: num of msg from mote 2 = 6 (tsp 39). [consecutive case] 
+00:23.383	ID:6	DEBUG: mote 6: num of msg from mote 2 = 6 (tsp 39). [consecutive case] 
+00:23.384	ID:6	DEBUG: mote 6: timer fired.
+00:23.388	ID:6	DEBUG: mote 6: packet sent with timestamp 39.
+00:23.395	ID:2	DEBUG: mote 2: packet received from mote 6 with timestamp 39.
+00:23.399	ID:2	DEBUG: mote 2: num of msg from mote 6 = 6 (tsp 39). [consecutive case] 
+00:23.479	ID:4	DEBUG: mote 4: timer fired.
+00:23.482	ID:4	DEBUG: mote 4: packet sent with timestamp 39.
+00:23.490	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 39.
+00:23.494	ID:5	DEBUG: mote 5: num of msg from mote 4 = 6 (tsp 39). [consecutive case] 
+00:23.513	ID:1	DEBUG: mote 1: timer fired.
+00:23.516	ID:1	DEBUG: mote 1: packet sent with timestamp 39.
+00:23.523	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 39.
+00:23.523	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 39.
+00:23.527	ID:2	DEBUG: mote 2: num of msg from mote 1 = 6 (tsp 39). [consecutive case] 
+00:23.527	ID:3	DEBUG: mote 3: num of msg from mote 1 = 6 (tsp 39). [consecutive case] 
+00:23.532	ID:7	DEBUG: mote 7: timer fired.
+00:23.536	ID:7	DEBUG: mote 7: packet sent with timestamp 39.
+00:23.542	ID:3	DEBUG: mote 3: timer fired.
+00:23.545	ID:3	DEBUG: mote 3: packet sent with timestamp 38.
+00:23.555	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 38.
+00:23.555	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 38.
+00:23.559	ID:1	DEBUG: mote 1: num of msg from mote 3 = 6 (tsp 38). [consecutive case] 
+00:23.559	ID:2	DEBUG: mote 2: num of msg from mote 3 = 6 (tsp 38). [consecutive case] 
+00:23.846	ID:5	DEBUG: mote 5: timer fired.
+00:23.849	ID:5	DEBUG: mote 5: packet sent with timestamp 39.
+00:23.855	ID:2	DEBUG: mote 2: timer fired.
+00:23.858	ID:2	DEBUG: mote 2: packet sent with timestamp 40.
+00:23.859	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 39.
+00:23.863	ID:4	DEBUG: mote 4: num of msg from mote 5 = 7 (tsp 39). [consecutive case] 
+00:23.866	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 40.
+00:23.866	ID:6	DEBUG: mote 6: packet received from mote 2 with timestamp 40.
+00:23.866	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 40.
+00:23.870	ID:1	DEBUG: mote 1: num of msg from mote 2 = 7 (tsp 40). [consecutive case] 
+00:23.870	ID:3	DEBUG: mote 3: num of msg from mote 2 = 7 (tsp 40). [consecutive case] 
+00:23.870	ID:6	DEBUG: mote 6: num of msg from mote 2 = 7 (tsp 40). [consecutive case] 
+00:23.871	ID:6	DEBUG: mote 6: timer fired.
+00:23.875	ID:6	DEBUG: mote 6: packet sent with timestamp 40.
+00:23.879	ID:2	DEBUG: mote 2: packet received from mote 6 with timestamp 40.
+00:23.883	ID:2	DEBUG: mote 2: num of msg from mote 6 = 7 (tsp 40). [consecutive case] 
+00:23.967	ID:4	DEBUG: mote 4: timer fired.
+00:23.971	ID:4	DEBUG: mote 4: packet sent with timestamp 40.
+00:23.979	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 40.
+00:23.983	ID:5	DEBUG: mote 5: num of msg from mote 4 = 7 (tsp 40). [consecutive case] 
+00:24.001	ID:1	DEBUG: mote 1: timer fired.
+00:24.004	ID:1	DEBUG: mote 1: packet sent with timestamp 40.
+00:24.013	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 40.
+00:24.013	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 40.
+00:24.017	ID:3	DEBUG: mote 3: num of msg from mote 1 = 7 (tsp 40). [consecutive case] 
+00:24.017	ID:2	DEBUG: mote 2: num of msg from mote 1 = 7 (tsp 40). [consecutive case] 
+00:24.021	ID:7	DEBUG: mote 7: timer fired.
+00:24.024	ID:7	DEBUG: mote 7: packet sent with timestamp 40.
+00:24.030	ID:3	DEBUG: mote 3: timer fired.
+00:24.033	ID:3	DEBUG: mote 3: packet sent with timestamp 39.
+00:24.040	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 39.
+00:24.040	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 39.
+00:24.044	ID:1	DEBUG: mote 1: num of msg from mote 3 = 7 (tsp 39). [consecutive case] 
+00:24.044	ID:2	DEBUG: mote 2: num of msg from mote 3 = 7 (tsp 39). [consecutive case] 
+00:24.334	ID:5	DEBUG: mote 5: timer fired.
+00:24.337	ID:5	DEBUG: mote 5: packet sent with timestamp 40.
+00:24.343	ID:2	DEBUG: mote 2: timer fired.
+00:24.347	ID:2	DEBUG: mote 2: packet sent with timestamp 41.
+00:24.349	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 40.
+00:24.353	ID:4	DEBUG: mote 4: num of msg from mote 5 = 8 (tsp 40). [consecutive case] 
+00:24.355	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 41.
+00:24.355	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 41.
+00:24.355	ID:6	DEBUG: mote 6: packet received from mote 2 with timestamp 41.
+00:24.359	ID:1	DEBUG: mote 1: num of msg from mote 2 = 8 (tsp 41). [consecutive case] 
+00:24.359	ID:3	DEBUG: mote 3: num of msg from mote 2 = 8 (tsp 41). [consecutive case] 
+00:24.359	ID:6	DEBUG: mote 6: num of msg from mote 2 = 8 (tsp 41). [consecutive case] 
+00:24.360	ID:6	DEBUG: mote 6: timer fired.
+00:24.364	ID:6	DEBUG: mote 6: packet sent with timestamp 41.
+00:24.370	ID:2	DEBUG: mote 2: packet received from mote 6 with timestamp 41.
+00:24.374	ID:2	DEBUG: mote 2: num of msg from mote 6 = 8 (tsp 41). [consecutive case] 
+00:24.455	ID:4	DEBUG: mote 4: timer fired.
+00:24.459	ID:4	DEBUG: mote 4: packet sent with timestamp 41.
+00:24.471	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 41.
+00:24.475	ID:5	DEBUG: mote 5: num of msg from mote 4 = 8 (tsp 41). [consecutive case] 
+00:24.489	ID:1	DEBUG: mote 1: timer fired.
+00:24.493	ID:1	DEBUG: mote 1: packet sent with timestamp 41.
+00:24.504	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 41.
+00:24.504	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 41.
+00:24.508	ID:2	DEBUG: mote 2: num of msg from mote 1 = 8 (tsp 41). [consecutive case] 
+00:24.508	ID:3	DEBUG: mote 3: num of msg from mote 1 = 8 (tsp 41). [consecutive case] 
+00:24.509	ID:7	DEBUG: mote 7: timer fired.
+00:24.513	ID:7	DEBUG: mote 7: packet sent with timestamp 41.
+00:24.518	ID:3	DEBUG: mote 3: timer fired.
+00:24.522	ID:3	DEBUG: mote 3: packet sent with timestamp 40.
+00:24.532	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 40.
+00:24.532	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 40.
+00:24.535	ID:2	DEBUG: mote 2: num of msg from mote 3 = 8 (tsp 40). [consecutive case] 
+00:24.536	ID:1	DEBUG: mote 1: num of msg from mote 3 = 8 (tsp 40). [consecutive case] 
+00:24.822	ID:5	DEBUG: mote 5: timer fired.
+00:24.826	ID:5	DEBUG: mote 5: packet sent with timestamp 41.
+00:24.831	ID:2	DEBUG: mote 2: timer fired.
+00:24.835	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 41.
+00:24.835	ID:2	DEBUG: mote 2: packet sent with timestamp 42.
+00:24.839	ID:4	DEBUG: mote 4: num of msg from mote 5 = 9 (tsp 41). [consecutive case] 
+00:24.846	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 42.
+00:24.846	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 42.
+00:24.846	ID:6	DEBUG: mote 6: packet received from mote 2 with timestamp 42.
+00:24.850	ID:1	DEBUG: mote 1: num of msg from mote 2 = 9 (tsp 42). [consecutive case] 
+00:24.850	ID:3	DEBUG: mote 3: num of msg from mote 2 = 9 (tsp 42). [consecutive case] 
+00:24.850	ID:6	DEBUG: mote 6: num of msg from mote 2 = 9 (tsp 42). [consecutive case] 
+00:24.851	ID:6	DEBUG: mote 6: timer fired.
+00:24.855	ID:6	DEBUG: mote 6: packet sent with timestamp 42.
+00:24.859	ID:2	DEBUG: mote 2: packet received from mote 6 with timestamp 42.
+00:24.863	ID:2	DEBUG: mote 2: num of msg from mote 6 = 9 (tsp 42). [consecutive case] 
+00:24.944	ID:4	DEBUG: mote 4: timer fired.
+00:24.947	ID:4	DEBUG: mote 4: packet sent with timestamp 42.
+00:24.953	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 42.
+00:24.957	ID:5	DEBUG: mote 5: num of msg from mote 4 = 9 (tsp 42). [consecutive case] 
+00:24.978	ID:1	DEBUG: mote 1: timer fired.
+00:24.981	ID:1	DEBUG: mote 1: packet sent with timestamp 42.
+00:24.993	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 42.
+00:24.993	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 42.
+00:24.996	ID:3	DEBUG: mote 3: num of msg from mote 1 = 9 (tsp 42). [consecutive case] 
+00:24.996	ID:2	DEBUG: mote 2: num of msg from mote 1 = 9 (tsp 42). [consecutive case] 
+00:24.997	ID:7	DEBUG: mote 7: timer fired.
+00:25.001	ID:7	DEBUG: mote 7: packet sent with timestamp 42.
+00:25.006	ID:3	DEBUG: mote 3: timer fired.
+00:25.010	ID:3	DEBUG: mote 3: packet sent with timestamp 41.
+00:25.015	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 41.
+00:25.015	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 41.
+00:25.019	ID:2	DEBUG: mote 2: num of msg from mote 3 = 9 (tsp 41). [consecutive case] 
+00:25.019	ID:1	DEBUG: mote 1: num of msg from mote 3 = 9 (tsp 41). [consecutive case] 
+00:25.310	ID:5	DEBUG: mote 5: timer fired.
+00:25.315	ID:5	DEBUG: mote 5: packet sent with timestamp 42.
+00:25.319	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 42.
+00:25.320	ID:2	DEBUG: mote 2: timer fired.
+00:25.323	ID:4	DEBUG: mote 4: num of msg from mote 5 = 10 (tsp 42). [consecutive case] 
+00:25.323	ID:2	DEBUG: mote 2: packet sent with timestamp 43.
+00:25.325	ID:4	ALERT FROM MOTE 4: I'm close to mote 5!
+00:25.329	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 43.
+00:25.329	ID:6	DEBUG: mote 6: packet received from mote 2 with timestamp 43.
+00:25.329	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 43.
+00:25.333	ID:1	DEBUG: mote 1: num of msg from mote 2 = 10 (tsp 43). [consecutive case] 
+00:25.333	ID:3	DEBUG: mote 3: num of msg from mote 2 = 10 (tsp 43). [consecutive case] 
+00:25.333	ID:6	DEBUG: mote 6: num of msg from mote 2 = 10 (tsp 43). [consecutive case] 
+00:25.335	ID:1	ALERT FROM MOTE 1: I'm close to mote 2!
+00:25.335	ID:3	ALERT FROM MOTE 3: I'm close to mote 2!
+00:25.335	ID:6	ALERT FROM MOTE 6: I'm close to mote 2!
+00:25.337	ID:6	DEBUG: mote 6: timer fired.
+00:25.340	ID:6	DEBUG: mote 6: packet sent with timestamp 43.
+00:25.346	ID:2	DEBUG: mote 2: packet received from mote 6 with timestamp 43.
+00:25.350	ID:2	DEBUG: mote 2: num of msg from mote 6 = 10 (tsp 43). [consecutive case] 
+00:25.352	ID:2	ALERT FROM MOTE 2: I'm close to mote 6!
+00:25.432	ID:4	DEBUG: mote 4: timer fired.
+00:25.435	ID:4	DEBUG: mote 4: packet sent with timestamp 43.
+00:25.446	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 43.
+00:25.450	ID:5	DEBUG: mote 5: num of msg from mote 4 = 10 (tsp 43). [consecutive case] 
+00:25.452	ID:5	ALERT FROM MOTE 5: I'm close to mote 4!
+00:25.466	ID:1	DEBUG: mote 1: timer fired.
+00:25.469	ID:1	DEBUG: mote 1: packet sent with timestamp 43.
+00:25.478	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 43.
+00:25.478	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 43.
+00:25.482	ID:3	DEBUG: mote 3: num of msg from mote 1 = 10 (tsp 43). [consecutive case] 
+00:25.482	ID:2	DEBUG: mote 2: num of msg from mote 1 = 10 (tsp 43). [consecutive case] 
+00:25.484	ID:3	ALERT FROM MOTE 3: I'm close to mote 1!
+00:25.484	ID:2	ALERT FROM MOTE 2: I'm close to mote 1!
+00:25.485	ID:7	DEBUG: mote 7: timer fired.
+00:25.489	ID:7	DEBUG: mote 7: packet sent with timestamp 43.
+00:25.495	ID:3	DEBUG: mote 3: timer fired.
+00:25.498	ID:3	DEBUG: mote 3: packet sent with timestamp 42.
+00:25.508	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 42.
+00:25.508	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 42.
+00:25.512	ID:1	DEBUG: mote 1: num of msg from mote 3 = 10 (tsp 42). [consecutive case] 
+00:25.512	ID:2	DEBUG: mote 2: num of msg from mote 3 = 10 (tsp 42). [consecutive case] 
+00:25.514	ID:1	ALERT FROM MOTE 1: I'm close to mote 3!
+00:25.514	ID:2	ALERT FROM MOTE 2: I'm close to mote 3!
+00:25.799	ID:5	DEBUG: mote 5: timer fired.
+00:25.802	ID:5	DEBUG: mote 5: packet sent with timestamp 43.
+00:25.808	ID:2	DEBUG: mote 2: timer fired.
+00:25.811	ID:4	DEBUG: mote 4: packet received from mote 5 with timestamp 43.
+00:25.811	ID:2	DEBUG: mote 2: packet sent with timestamp 44.
+00:25.814	ID:4	DEBUG: mote 4: num of msg from mote 5 = 1 (tsp 43). [reset case] 
+00:25.820	ID:1	DEBUG: mote 1: packet received from mote 2 with timestamp 44.
+00:25.820	ID:3	DEBUG: mote 3: packet received from mote 2 with timestamp 44.
+00:25.820	ID:6	DEBUG: mote 6: packet received from mote 2 with timestamp 44.
+00:25.824	ID:1	DEBUG: mote 1: num of msg from mote 2 = 1 (tsp 44). [reset case] 
+00:25.824	ID:3	DEBUG: mote 3: num of msg from mote 2 = 1 (tsp 44). [reset case] 
+00:25.824	ID:6	DEBUG: mote 6: num of msg from mote 2 = 1 (tsp 44). [reset case] 
+00:25.826	ID:6	DEBUG: mote 6: timer fired.
+00:25.830	ID:6	DEBUG: mote 6: packet sent with timestamp 44.
+00:25.834	ID:2	DEBUG: mote 2: packet received from mote 6 with timestamp 44.
+00:25.837	ID:2	DEBUG: mote 2: num of msg from mote 6 = 1 (tsp 44). [reset case] 
+00:25.920	ID:4	DEBUG: mote 4: timer fired.
+00:25.924	ID:4	DEBUG: mote 4: packet sent with timestamp 44.
+00:25.931	ID:5	DEBUG: mote 5: packet received from mote 4 with timestamp 44.
+00:25.934	ID:5	DEBUG: mote 5: num of msg from mote 4 = 1 (tsp 44). [reset case] 
+00:25.954	ID:1	DEBUG: mote 1: timer fired.
+00:25.958	ID:1	DEBUG: mote 1: packet sent with timestamp 44.
+00:25.963	ID:3	DEBUG: mote 3: packet received from mote 1 with timestamp 44.
+00:25.963	ID:2	DEBUG: mote 2: packet received from mote 1 with timestamp 44.
+00:25.966	ID:3	DEBUG: mote 3: num of msg from mote 1 = 1 (tsp 44). [reset case] 
+00:25.966	ID:2	DEBUG: mote 2: num of msg from mote 1 = 1 (tsp 44). [reset case] 
+00:25.974	ID:7	DEBUG: mote 7: timer fired.
+00:25.977	ID:7	DEBUG: mote 7: packet sent with timestamp 44.
+00:25.983	ID:3	DEBUG: mote 3: timer fired.
+00:25.987	ID:3	DEBUG: mote 3: packet sent with timestamp 43.
+00:25.990	ID:1	DEBUG: mote 1: packet received from mote 3 with timestamp 43.
+00:25.990	ID:2	DEBUG: mote 2: packet received from mote 3 with timestamp 43.
+00:25.994	ID:1	DEBUG: mote 1: num of msg from mote 3 = 1 (tsp 43). [reset case] 
+00:25.994	ID:2	DEBUG: mote 2: num of msg from mote 3 = 1 (tsp 43). [reset case] 
